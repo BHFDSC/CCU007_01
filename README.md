@@ -1,4 +1,4 @@
-# The impact of COVID-19 and lockdowns on children with congenital heart diseases and their management
+# What are the differences in types of congenital heart disease procedures in children during periods of lockdown and relaxation of lockdown, compared to before the COVID-19 pandemic?
 
 ## Project description
 
@@ -9,8 +9,8 @@ Description will be added here.
 
 ## Code
 
-* Click [here] to view the analysis code used in NHS Digital's TRE for England.
-* Phenotyping algorithms and codelists used in NHS Digital's TRE for England are available [here]
+* [View the analysis code used in NHS Digital's TRE for England](https://github.com/BHFDSC/CCU007_01/tree/main/code)
+* [View the phenotyping algorithms and codelists used in NHS Digital's TRE for England](https://github.com/BHFDSC/CCU007_01/tree/main/phenotypes)
 
 ## Project approval
 
