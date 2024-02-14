@@ -2,15 +2,15 @@
 
 ## Project description
 
-Description will be added here.
+The COVID-19 pandemic necessitated major re-allocation of health care services. Our aim was to assess the impact on pediatric procedures for congenital heart disease during different periods of the COVID-19 pandemic compared to the pre-pandemic period to inform appropriate responses to future major disruptions of health services.
 
 ## How to cite this work
 > Citation to follow
 
 ## Code
 
-* [View the analysis code used in NHS Digital's TRE for England](https://github.com/BHFDSC/CCU007_01/tree/main/code)
-* [View the phenotyping algorithms and codelists used in NHS Digital's TRE for England](https://github.com/BHFDSC/CCU007_01/tree/main/phenotypes)
+* [View the analysis code used in NHS England's SDE for England](https://github.com/BHFDSC/CCU007_01/tree/main/code)
+* [View the phenotyping algorithms and codelists used in NHS England's SDE for England](https://github.com/BHFDSC/CCU007_01/tree/main/phenotypes)
 
 ## Project approval
 
