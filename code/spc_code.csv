@@ -1,0 +1,66 @@
+Procedure Title,Type,sp_code,sp_group
+Norwood procedure (Stage 1),1. bypass,01 norwood,1
+Heart Transplant,1. bypass,02 heart_transplant,8
+TAPVC Repair + Arterial Shunt,"1. bypass
+2. non-bypass",14 tapvc_shunt,2
+Fontan procedure,"1. bypass
+2. non-bypass",16 fontan,12
+Bidirectional cavopulmonary shunt,"1. bypass
+2. non-bypass",17 glenn,10
+Senning or Mustard procedure,1. bypass,08 atrial_switch,7
+Truncus and interruption repair,1. bypass,05 common_arterial_trunk_repair,2
+Truncus arteriosus repair,1. bypass,04 common_arterial_trunk_aorta_repair,2
+Tricuspid valve replacement,1. bypass,28 tricuspid_valve_replacement,8
+Interrupted aortic arch repair,"1. bypass
+2. non-bypass",46 iaa,2
+Ross-Konno procedure,1. bypass,23 ross_konno_a,7
+Ross-Konno procedure,1. bypass,24 ross_konno_b,7
+Multiple VSD Closure,1. bypass,50 multiple_vsd,9
+Mitral valve replacement,1. bypass,22 mitral_valve_replacement,7
+Repair of total anomalous pulmonary venous connection,1. bypass,15 tapvc,4
+Pulmonary vein stenosis procedure,1. bypass,48 pulmonary_vein_stenosis,7
+Atrioventricular septal defect and tetralogy repair,1. bypass,18 avsd_fallot_a,9
+Atrioventricular septal defect and tetralogy repair,1. bypass,19 avsd_fallot_b,9
+Atrioventricular septal defect (complete) repair,1. bypass,20 avsd_complete,11
+Atrioventricular septal defect (partial) repair,1. bypass,21 avsd_partial,14
+Aortic valve repair,"1. bypass
+2. non-bypass",31 aortic_valve_repair,8
+Anomalous coronary artery repair,1. bypass,42 anomalous_coronary,6
+Cor triatriatum repair,1. bypass,43 cor_triatriatum,9
+Arterial switch +  aortic arch obstruction repair (with-without VSD closure),1. bypass,11 transposition_arch,2
+Arterial switch + VSD closure,1. bypass,12 transposition_vsd,4
+Arterial switch (for isolated transposition),1. bypass,13 transposition,6
+Pulmonary atresia VSD repair,1. bypass,33 pulmonary_atresia_vsd,7
+Pulmonary valve replacement,1. bypass,29 pulmonary_valve_replacement,8
+Tetralogy with absent pulmonary valve repair,1. bypass,35 absent_pulmonary_valve_syndrome,7
+Tetralogy and Fallot-type DORV repair,1. bypass,36 fallot,14
+Isolated coarctation/ hypoplastic aortic arch repair,"1. bypass
+2. non-bypass",47 coarctation_hypoplasia,6
+Aortic Valve Replacement - non Ross,1. bypass,27 aortic_valve_replacement,15
+Supravalvar aortic stenosis repair,1. bypass,39 supra_valvar_aortic_stenosis,9
+Rastelli - REV procedure,1. bypass,09 rastelli_rev,9
+Ross-Konno procedure,1. bypass,24 ross_konno_b,7
+Aortic valve replacement - Ross,1. bypass,25 ross,13
+Aortic root replacement (not Ross),1. bypass,26 aortic_root_replacement,8
+Cardiac conduit replacement,1. bypass,49 conduit_replacement,8
+Isolated RV to PA conduit construction,1. bypass,37 rv_pa_conduit,8
+Subvalvar aortic stenosis repair,1. bypass,40 sub_valvar_aortic_stenosis,13
+Mitral valve repair ,1. bypass,30 mitral_valve_repair,13
+Aortopulmonary window repair,"1. bypass
+2. non-bypass",41 ap_window,6
+Unifocalisation procedure (with/without shunt),"1. bypass
+2. non-bypass",34 mapca_unifocalisation;,7
+Vascular ring procedure,"1. bypass
+2. non-bypass",53 vascular_ring,14
+Sinus Venosus ASD and-or PAPVC repair,1. bypass,52 sinus_venosus_asd_papvc,13
+Tricuspid valve repair,1. bypass,32 tricuspid_valve_repair,8
+ASD repair,"1. bypass
+2. non-bypass",54 asd,15
+VSD Repair,"1. bypass
+2. non-bypass",51 vsd,15
+Arterial shunt,"1. bypass
+2. non-bypass",45 arterial_shunt,3
+Isolated Pulmonary artery band,"1. bypass
+2. non-bypass",44 pa_band,4
+PDA ligation (surgical),"1. bypass
+2. non-bypass",55 pda_ligation,5
