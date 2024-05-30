@@ -1,0 +1,146 @@
+cmorb,risk_group
+101351. Pulmonary embolism,Acquired Comorbidity
+101400. Secondary systemic hypertension,Acquired Comorbidity
+101401. Systemic hypertension,Acquired Comorbidity
+101402. Primary (essential) systemic hypertension,Acquired Comorbidity
+101404. Systemic hypertension due to aortic arch obstruction,Acquired Comorbidity
+"101501. Persistent pulmonary hypertension of the newborn (PFC),",Acquired Comorbidity
+101505. Necrotising enterocolitis,Acquired Comorbidity
+101512. Meconium aspiration,Acquired Comorbidity
+102006. Pre-procedural coagulation disorder,Acquired Comorbidity
+102007. Pre-procedural renal failure,Acquired Comorbidity
+102008. Pre-procedural renal failure requiring dialysis,Acquired Comorbidity
+102009. Pre-procedural septicaemia,Acquired Comorbidity
+102012. Pre-procedural neurological impairment,Acquired Comorbidity
+102013. Preprocedural cerebral abnormality on imaging,Acquired Comorbidity
+102017. Pre-procedural tracheostomy,Acquired Comorbidity
+102018. Preprocedural seizures,Acquired Comorbidity
+102037. Preprocedural respiratory syncytial virus (RSV) infection,Acquired Comorbidity
+102038. Preprocedural necrotising enterocolitis: treated medically,Acquired Comorbidity
+102039. Preprocedural necrotising enterocolitis: treated surgically,Acquired Comorbidity
+140305. Psychomotor developmental delay,Acquired Comorbidity
+140340. Brain Abcess,Acquired Comorbidity
+140342. Cerebrovascular accident (stroke),Acquired Comorbidity
+140372. Anoxic-ischaemic encephalopathy,Acquired Comorbidity
+140375. Hyperthyroidism,Acquired Comorbidity
+140390. Diabetes mellitus,Acquired Comorbidity
+140494. Diabetes mellitus: requiring insulin,Acquired Comorbidity
+140565. Meningitis,Acquired Comorbidity
+158210. Kidney failure,Acquired Comorbidity
+160111. Empyema,Acquired Comorbidity
+160302. Lower respiratory tract infection,Acquired Comorbidity
+160305. Lung disease,Acquired Comorbidity
+160310. Asthma,Acquired Comorbidity
+160800. Acquired bronchial disease,Acquired Comorbidity
+"160900. Airway disease,",Acquired Comorbidity
+161300. Diaphragm disorder: acquired,Acquired Comorbidity
+"161320. Diaphragm paralysis,",Acquired Comorbidity
+162010. Oesophageal disorder,Acquired Comorbidity
+070001. Ventricular dyssynchrony,Additional Cardiac Risk Factors
+070110. Arrhythmogenic right ventricular cardiomyopathy,Additional Cardiac Risk Factors
+070111. Right ventricular dysfunction,Additional Cardiac Risk Factors
+070610. Left ventricular dysfunction,Additional Cardiac Risk Factors
+070850. Ventricular myocardial noncompaction cardiomyopathy,Additional Cardiac Risk Factors
+100701. Infectious myocarditis,Additional Cardiac Risk Factors
+100703. Viral myocarditis,Additional Cardiac Risk Factors
+100705. Drug induced heart muscle disease,Additional Cardiac Risk Factors
+100708. Trypanosomal myocarditis (Chagas' disease),Additional Cardiac Risk Factors
+100740. Myocardial failure in end stage congenital heart disease,Additional Cardiac Risk Factors
+100742. Heart muscle disease in cardiac rejection,Additional Cardiac Risk Factors
+100761. Nutritional heart muscle disease,Additional Cardiac Risk Factors
+100771. Heart muscle disease in infant of diabetic mother,Additional Cardiac Risk Factors
+100781. Heart muscle disease in collagen vascular/ connective tissue disorder,Additional Cardiac Risk Factors
+100790. Myocarditis,Additional Cardiac Risk Factors
+100930. Ischaemic heart disease,Additional Cardiac Risk Factors
+101001. Cardiomyopathy,Additional Cardiac Risk Factors
+101010. Restrictive cardiomyopathy,Additional Cardiac Risk Factors
+101011. Idiopathic restrictive cardiomyopathy,Additional Cardiac Risk Factors
+101012. Endocardial fibroelastosis,Additional Cardiac Risk Factors
+101013. Infiltrative cardiomyopathy,Additional Cardiac Risk Factors
+101020. Hypertrophic cardiomyopathy,Additional Cardiac Risk Factors
+101025. Dilated cardiomyopathy,Additional Cardiac Risk Factors
+101301. Pulmonary arterial hypertension,Additional Cardiac Risk Factors
+101302. Idiopathic (primary) pulmonary hypertension,Additional Cardiac Risk Factors
+101306. Pulmonary vascular disease,Additional Cardiac Risk Factors
+101308.  Irreversible pulmonary vascular disease due to congenital heart disease (Eisenmenger Syndrome),Additional Cardiac Risk Factors
+101320. Secondary pulmonary hypertension,Additional Cardiac Risk Factors
+101321. Pulmonary hypertension due to congenital systemic-to-pulmonary shunt,Additional Cardiac Risk Factors
+101363. Elevated lung resistance for biventricular repair (> 6 Wood units),Additional Cardiac Risk Factors
+101364. Elevated lung resistance for heart transplant (> 4 Wood units),Additional Cardiac Risk Factors
+101365. Elevated lung resistance for univentricular repair (> 2 Wood units),Additional Cardiac Risk Factors
+101510. Transient myocardial ischaemia,Additional Cardiac Risk Factors
+101800. Myocardial infarction,Additional Cardiac Risk Factors
+101801. Acute myocardial infarction,Additional Cardiac Risk Factors
+102016. Pre-procedural pulmonary hypertension,Additional Cardiac Risk Factors
+102034. Preprocedural myocardial infarction,Additional Cardiac Risk Factors
+"102045. Preprocedural pulmonary hypertension (pulmonary pressure more than or equal to systemic pressure): echo data,",Additional Cardiac Risk Factors
+"102046. Preprocedural pulmonary hypertension (pulmonary pressure more than or equal to systemic pressure): catheter data,",Additional Cardiac Risk Factors
+152231. Residual pulmonary hypertension after relief of L to R shunt,Additional Cardiac Risk Factors
+"030102. Visceral heterotaxy (abnormal arrangement thoraco-abdominal organs),",Congenital Comorbidity
+030109. Position or morphology of thoraco-abdominal organs abnormal,Congenital Comorbidity
+030209. Lung anomaly,Congenital Comorbidity
+030214. Functionally congenital single lung,Congenital Comorbidity
+030305. Tracheobronchial anomaly,Congenital Comorbidity
+"030603. Intestines malrotated,    ",Congenital Comorbidity
+102304. Hereditary disorder associated with heart disease,Congenital Comorbidity
+140101. Chromosomal anomaly,Congenital Comorbidity
+140103. Trisomy 18 - Edwards syndrome,Congenital Comorbidity
+140104. Trisomy 13 - Pataus syndrome,Congenital Comorbidity
+140105. 45XO - Turners syndrome,Congenital Comorbidity
+140121. 22q11 microdeletion - CATCH 22,Congenital Comorbidity
+140200. Syndrome/association with cardiac involvement,Congenital Comorbidity
+140206. DiGeorge sequence,Congenital Comorbidity
+"140210.           Friedreich?s ataxia,",Congenital Comorbidity
+140217. Marfan syndrome,Congenital Comorbidity
+140219. Noonan syndrome,Congenital Comorbidity
+"140221.           Pompe?s disease: glycogen storage disease type IIa,",Congenital Comorbidity
+140228. Tuberous sclerosis,Congenital Comorbidity
+140230. Williams syndrome (infantile hypercalcaemia),Congenital Comorbidity
+140232. Fetal rubella syndrome,Congenital Comorbidity
+"140234.           Duchenne?s muscular dystrophy,",Congenital Comorbidity
+"140258.           Muscular dystrophy,",Congenital Comorbidity
+140262. Ehlers-Danlos syndrome,Congenital Comorbidity
+140266. Alagille syndrome: arteriohepatic dysplasia,Congenital Comorbidity
+140300. Non-cardiac abnormality associated with heart disease,Congenital Comorbidity
+140304. Non-cardiothoracic / vascular abnormality (DESCRIBE),Congenital Comorbidity
+140306. Cystic fibrosis,Congenital Comorbidity
+140307. Diaphragmatic hernia,Congenital Comorbidity
+140308. Tracheo-oesophageal fistula,Congenital Comorbidity
+140310. Omphalocoele,Congenital Comorbidity
+140311. Duodenal stenosis/atresia,Congenital Comorbidity
+140321. Sickle cell disease,Congenital Comorbidity
+140323. Renal abnormality,Congenital Comorbidity
+"140328. Congenital coagulation disorder,",Congenital Comorbidity
+140329. Thoracic / mediastinal abnormality,Congenital Comorbidity
+140333. Microcephaly,Congenital Comorbidity
+"140347. Choanal atresia,",Congenital Comorbidity
+140349. Tracheobronchial malacia,Congenital Comorbidity
+140352. Hypothyroidism,Congenital Comorbidity
+140391. Cerebral anomaly,Congenital Comorbidity
+"140392. Connective tissue disease,",Congenital Comorbidity
+140409. Kyphoscoliosis,Congenital Comorbidity
+140412. Cleft lip / palate,Congenital Comorbidity
+140485. Loeys-Dietz Syndrome (transforming growth factor beta receptor (TGFBR) gene) ,Congenital Comorbidity
+140490. Von Willebrand disease ,Congenital Comorbidity
+"140540.  Maternally derived fetal disease or syndrome associated with heart disease,",Congenital Comorbidity
+140550. Major anomaly of gastrointestinal system,Congenital Comorbidity
+140601. Multiple congenital malformations,Congenital Comorbidity
+161001. Tracheal stenosis,Congenital Comorbidity
+161009. Tracheal disease,Congenital Comorbidity
+140102. Trisomy 21 - Downs syndrome,Downs Syndrome (not used in PRAiS)
+101600. Right ventricular abnormality: acquired,None (not used in PRAiS)
+101608. Right ventricular-congestive heart failure,None (not used in PRAiS)
+101640. Left ventricular abnormality: acquired,None (not used in PRAiS)
+101647. Left ventricular failure,None (not used in PRAiS)
+102202. Premature birth,Premature (not used in PRAiS)
+"102205.                    Premature birth 32-35 weeks,    ",Premature (not used in PRAiS)
+"102206.                    Premature birth less than 32 weeks,    ",Premature (not used in PRAiS)
+101723. Shock,Severity of illness
+102002. Pre-procedural shock,Severity of illness
+102005. Pre-procedural acidosis,Severity of illness
+102014. Pre-procedural mechanical ventilatory support,Severity of illness
+102015. Pre-procedural mechanical circulatory support,Severity of illness
+102031. Preprocedural shock at time of surgery (persistent),Severity of illness
+102033. Preprocedural cardiopulmonary resuscitation (< 48 hours),Severity of illness
+110021. Cardiac Arrest,Severity of illness
+163001. Respiratory failure,Severity of illness

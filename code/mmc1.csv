@@ -1,0 +1,1293 @@
+nchda code,diagnosis group,diagnosis group rank,PRAiS2 group rank,UVH
+010109. Hypoplastic left heart syndrome,Hypoplastic left heart syndrome,1,1,Yes
+060201. Mitral atresia,Hypoplastic left heart syndrome,1,1,Yes
+091503. Aortic atresia,Hypoplastic left heart syndrome,1,1,Yes
+090101. Common arterial trunk (truncus arteriosus),Common arterial trunk (truncus arteriosus)  ,3,1,No
+090200. Truncal valvar abnormality,Common arterial trunk (truncus arteriosus)  ,3,1,No
+090203. Truncal valvar regurgitation,Common arterial trunk (truncus arteriosus)  ,3,1,No
+010107. Pulmonary atresia + intact ventricular septum,Pulmonary atresia and IVS,7,1,Yes
+010114. Double inlet AV connection (double inlet ventricle),Functionally univentricular heart,2,2,Yes
+010122. Functionally univentricular heart,Functionally univentricular heart,2,2,Yes
+010124. Double outlet right ventricle: with intact ventricular septum,Functionally univentricular heart,2,2,Yes
+010403. Double inlet RV,Functionally univentricular heart,2,2,Yes
+010404. Double inlet LV,Functionally univentricular heart,2,2,Yes
+020305. Solitary ventricle of indeterminate morphology,Functionally univentricular heart,2,2,Yes
+060101. Tricuspid atresia,Functionally univentricular heart,2,2,Yes
+060726. AVSD with ventricular imbalance,Functionally univentricular heart,2,2,Yes
+070841. Functionally univentricular heart,Functionally univentricular heart,2,2,Yes
+070842. Functionally univentricular heart,Functionally univentricular heart,2,2,Yes
+010106. Pulmonary atresia + VSD (including Fallot type),Pulmonary atresia + VSD (including Fallot type),8,2,No
+010125. Pulmonary atresia + VSD + systemic-to-pulmonary collateral artery(ies) (MAPCA(s)),Pulmonary atresia + VSD (including Fallot type),8,2,No
+090511. Pulmonary atresia,Pulmonary atresia + VSD (including Fallot type),8,2,No
+090512. Pulmonary atresia: imperforate valve,Pulmonary atresia + VSD (including Fallot type),8,2,No
+090726. Solitary arterial trunk (absent intrapericardial pulmonary arteries),Pulmonary atresia + VSD (including Fallot type),8,2,No
+090801. Major systemic-to-pulmonary collateral artery(ies) (MAPCA(s)),Pulmonary atresia + VSD (including Fallot type),8,2,No
+092025. Systemic-to-pulmonary collateral arter(ies) (MAPCA(s)) stenosis(es),Pulmonary atresia + VSD (including Fallot type),8,2,No
+010118. Double outlet right ventricle: transposition type (subpulmonary VSD),TGA+VSD/ DORV-TGA type,4,3,No
+010501. Discordant VA connections (TGA),TGA+VSD/ DORV-TGA type,4,3,No
+092931. Interrupted aortic arch,Interrupted aortic arch,5,3,No
+092700. Arterial duct (ductus arteriosus) abnormality,PDA,22,4,No
+092721. Patent arterial duct (PDA),PDA,22,4,No
+010103. Congenitally corrected transposition of great arteries (discordant AV & VA connections),Misc congenital primary diagnoses,9,5,No
+010104. Double outlet right ventricle,Misc congenital primary diagnoses,9,5,No
+010116. Partially anomalous pulmonary venous connections: Scimitar syndrome,Misc congenital primary diagnoses,9,5,No
+010119. Double outlet right ventricle: with non-committed VSD,Misc congenital primary diagnoses,9,5,Yes
+010120. AV septal defect and Tetralogy of Fallot,Misc congenital primary diagnoses,9,5,No
+"010133. Shone's syndrome: left heart obstruction at multiple sites,",Misc congenital primary diagnoses,9,5,No
+010140. Double outlet right ventricle: subaortic or doubly committed VSD without pulmonary stenosis ('VSD type'),Misc congenital primary diagnoses,9,5,No
+010503. Double outlet left ventricle,Misc congenital primary diagnoses,9,5,No
+040891. Pulmonary vein stenosis,Misc congenital primary diagnoses,9,5,No
+050201. Cor triatriatum (divided left atrium),Misc congenital primary diagnoses,9,5,No
+090401. Aortopulmonary window,Misc congenital primary diagnoses,9,5,No
+090525. Absent pulmonary valve syndrome: Fallot-type,Misc congenital primary diagnoses,9,5,No
+091600. Supravalvar aortic stenosis,Misc congenital primary diagnoses,9,5,No
+093100. Vascular ring,Misc congenital primary diagnoses,9,5,No
+094101. Anomalous origin of coronary artery from pulmonary artery,Misc congenital primary diagnoses,9,5,No
+060100. Tricuspid valvar abnormality,Tricuspid valve abnormality (including Ebstein's),13,5,No
+060103. Tricuspid valvar dysplasia,Tricuspid valve abnormality (including Ebstein's),13,5,No
+060125. Tricuspid regurgitation: congenital,Tricuspid valve abnormality (including Ebstein's),13,5,No
+060134. Ebstein's malformation of tricuspid valve,Tricuspid valve abnormality (including Ebstein's),13,5,No
+060191. Tricuspid regurgitation,Tricuspid valve abnormality (including Ebstein's),13,5,No
+060192. Tricuspid stenosis,Tricuspid valve abnormality (including Ebstein's),13,5,No
+040600. Totally anomalous pulmonary venous connection: supracardiac,TAPVC,15,5,No
+040805. Totally anomalous pulmonary venous connection,TAPVC,15,5,No
+040806. Obstructed pulmonary venous connection(s),TAPVC,15,5,No
+040810. Totally anomalous pulmonary venous connection: intracardiac,TAPVC,15,5,No
+040820. Totally anomalous pulmonary venous connection: infracardiac,TAPVC,15,5,No
+040830. Totally anomalous pulmonary venous connection: mixed,TAPVC,15,5,No
+120000. Totally anomalous pulmonary venous connection repair,Procedure,26,5,No
+120002. Partially anomalous pulmonary venous connection repair,Procedure,26,5,No
+120003. Pulmonary vein stenosis repair,Procedure,26,5,No
+120017. Scimitar syndrome (PAPVC) repair,Procedure,26,5,No
+120020. Pulmonary vein procedure,Procedure,26,5,No
+120021. Balloon dilation of pulmonary vein,Procedure,26,5,No
+120022. Stent placement in pulmonary vein,Procedure,26,5,No
+120023. Balloon dilation of pulmonary vein using cutting balloon,Procedure,26,5,No
+120024. Balloon dilation of pulmonary vein or pathway,Procedure,26,5,No
+120025. Stent placement in pulmonary vein or pathway,Procedure,26,5,No
+120029. Systemic venous pathway procedure (post Senning-Mustard),Procedure,26,5,No
+120030. Systemic vein procedure,Procedure,26,5,No
+120036. Stent placement in superior caval vein (SVC),Procedure,26,5,No
+120039. Superior caval vein (SVC) procedure,Procedure,26,5,No
+120042. Inferior caval vein (IVC) procedure,Procedure,26,5,No
+120043. Balloon dilation of systemic vein or pathway,Procedure,26,5,No
+120044. Stent placement in systemic vein or pathway,Procedure,26,5,No
+120050. Coronary sinus procedure,Procedure,26,5,No
+120055. Coronary sinus interatrial communication (ASD) repair,Procedure,26,5,No
+"120078. Partially anomalous pulmonary venous connection repair: baffle redirection to left atrium & systemic vein translocated to right atrial appendage (Warden),",Procedure,26,5,No
+120081. Anomalous systemic venous connection repair,Procedure,26,5,No
+120083. Systemic venous stenosis repair,Procedure,26,5,No
+120090. Cardiopulmonary bypass used during procedure,Procedure,26,5,No
+120091. Cardiopulmonary bypass not used during procedure,Procedure,26,5,No
+120092. Cardiopulmonary bypass for non-cardiac lesion,Procedure,26,5,No
+120100. Interatrial communication closure,Procedure,26,5,No
+120101. Atrial septal defect (ASD) secundum closure,Procedure,26,5,No
+120102. Atrial septal defect (ASD) secundum closure with direct suture,Procedure,26,5,No
+120103. Atrial septal defect (ASD) secundum closure with patch,Procedure,26,5,No
+120106. Atrial septal defect (ASD) secundum closure with transluminal device,Procedure,26,5,No
+120107. PFO closure with transluminal device,Procedure,26,5,No
+120108. Interatrial communication closure: partial,Procedure,26,5,No
+120110. Sinus venosus defect (ASD) closure,Procedure,26,5,No
+120122. Atrial septation procedure,Procedure,26,5,No
+120130. Left atrial procedure,Procedure,26,5,No
+120131. Cor triatriatum (divided left atrium) repair,Procedure,26,5,No
+120132. Supra-mitral valvar LA-ring excision,Procedure,26,5,No
+120141. Balloon atrial septostomy by pull back (Rashkind),Procedure,26,5,No
+120142. Atrial septectomy: closed (Blalock Hanlon),Procedure,26,5,No
+120143. Atrial septectomy,Procedure,26,5,No
+120144. Blade atrial septostomy,Procedure,26,5,No
+120147. Transluminal fenestration of atrial septum-tunnel,Procedure,26,5,No
+120153. Patent foramen ovale (PFO) direct closure,Procedure,26,5,No
+120157. Atrial baffle procedure,Procedure,26,5,No
+120160. Right atrial procedure,Procedure,26,5,No
+120180. Interatrial communication left open,Procedure,26,5,No
+120190. Interatrial communication creation-enlargement,Procedure,26,5,No
+120198. Interatrial communication closure with transluminal device,Procedure,26,5,No
+120200. Tricuspid valvar procedure,Procedure,26,5,No
+120202. Tricuspid leaflet (valvoplasty) procedure,Procedure,26,5,No
+120204. Tricuspid valvar annuloplasty,Procedure,26,5,No
+120209. Ebstein's malformation of tricuspid valve repair,Procedure,26,5,No
+120211. Tricuspid valvar replacement,Procedure,26,5,No
+120222. Tricuspid valvectomy,Procedure,26,5,No
+120270. Tricuspid valvar closure,Procedure,26,5,No
+"120283. Tricuspid valve repair converted to tricuspid valvar replacement,",Procedure,26,5,No
+120300. Mitral valvar procedure,Procedure,26,5,No
+120301. Mitral valvotomy,Procedure,26,5,No
+120303. Mitral leaflet (valvoplasty) procedure,Procedure,26,5,No
+120304. Mitral valvar annuloplasty,Procedure,26,5,No
+120310. Balloon mitral valvotomy,Procedure,26,5,No
+120311. Mitral valvar replacement,Procedure,26,5,No
+120319. Mitral subvalvar apparatus procedure,Procedure,26,5,No
+"120384. Mitral valve repair converted to mitral valvar replacement,",Procedure,26,5,No
+120397. Transluminal mitral valve repair,Procedure,26,5,No
+120400. AV septal defect procedure,Procedure,26,5,No
+120401. AVSD: partial (primum ASD) repair,Procedure,26,5,No
+120409. AVSD: partial with isolated ventricular component (VSD) repair,Procedure,26,5,No
+"120418. Common atrioventricular valve replacement,",Procedure,26,5,No
+120420. AVSD: right AV valvar procedure,Procedure,26,5,No
+"120433. Common atrioventricular valve repair converted to atrioventricular valvar replacement,",Procedure,26,5,No
+120440. AVSD: left AV valvar procedure,Procedure,26,5,No
+120445. AVSD: left AV valvar replacement,Procedure,26,5,No
+120501. AVSD: complete (common valve orifice) repair,Procedure,26,5,No
+120510. AVSD: 'intermediate' repair,Procedure,26,5,No
+120511. AVSD & Tetralogy of Fallot repair,Procedure,26,5,No
+120600. Right ventricular outflow tract procedure,Procedure,26,5,No
+120605. Balloon dilation of right ventricular outflow tract,Procedure,26,5,No
+120618. Stent placement in right ventricular outflow tract,Procedure,26,5,No
+120619. 1.5 ventricle repair: Glenn anastomosis + right ventricular outflow tract reconstruction,Procedure,26,5,No
+120625. Transluminal right ventricular biopsy,Procedure,26,5,No
+120626. Right ventricular procedure,Procedure,26,5,No
+120635. Double chambered right ventricle repair,Procedure,26,5,No
+120638. Right ventricular aneurysm repair,Procedure,26,5,No
+120641. Right ventricular outflow tract obstruction relief,Procedure,26,5,No
+120643. Right ventricle to pulmonary artery valveless conduit construction (including 'Sano'),Procedure,26,5,No
+120700. Left ventricular outflow tract procedure,Procedure,26,5,No
+120701. Subaortic fibromuscular shelf resection,Procedure,26,5,No
+120707. Balloon dilation of left ventricular outflow tract,Procedure,26,5,No
+120711. Left ventricular outflow tract myectomy-myotomy,Procedure,26,5,No
+120712. Left ventricular outflow tract obstruction relief: complex (Konno etc),Procedure,26,5,No
+120713. Left ventricular outflow tract obstruction relief,Procedure,26,5,No
+120719. Left ventricular outflow tract obstruction relief by transcatheter coronary chemical ablation,Procedure,26,5,No
+120726. Left ventricular procedure,Procedure,26,5,No
+120737. Left ventricular aneurysm repair,Procedure,26,5,No
+120738. Partial left ventriculectomy-volume reduction (Batista),Procedure,26,5,No
+120801. VSD closure,Procedure,26,5,No
+120802. VSD closure by direct suture,Procedure,26,5,No
+120803. VSD closure using patch,Procedure,26,5,No
+120806. VSD enlargement,Procedure,26,5,No
+120807. VSD closure with transluminal device,Procedure,26,5,No
+120816. Closure of multiple VSDs,Procedure,26,5,No
+120819. Open fenestration of VSD patch,Procedure,26,5,No
+120820. Transluminal fenestration of VSD patch,Procedure,26,5,No
+120821. Subpulmonary obstruction relief,Procedure,26,5,No
+120822. Subaortic obstruction relief,Procedure,26,5,No
+120828. Intraoperative VSD closure with transluminal device (hybrid approach),Procedure,26,5,No
+120835. VSD enlargement/ creation,Procedure,26,5,No
+120865. Transluminal interventricular communication creation,Procedure,26,5,No
+120901. Ventricular septation procedure,Procedure,26,5,No
+120903. Damus-Kaye-Stansel type procedure: pulmonary trunk to aorta end/side anastomosis,Procedure,26,5,No
+121000. Norwood type procedure,Procedure,26,5,No
+121004. Application of bilateral pulmonary arterial bands & transcatheter placement of stent in arterial duct,Procedure,26,5,No
+121005. Hypoplastic left heart biventricular repair,Procedure,26,5,No
+121014. Stent placement in arterial duct (PDA),Procedure,26,5,No
+121100. Common arterial trunk (truncus) repair,Procedure,26,5,No
+121134. Truncal valve cusp(s) repair (valvoplasty),Procedure,26,5,No
+121141. Truncal valve replacement,Procedure,26,5,No
+"121143. Truncal valve repair converted to truncal valvar replacement,",Procedure,26,5,No
+121201. Aortopulmonary window closure,Procedure,26,5,No
+121208. Aortopulmonary window closure with transcatheter device,Procedure,26,5,No
+121300. Pulmonary valvar procedure,Procedure,26,5,No
+121302. Pulmonary valvotomy: open,Procedure,26,5,No
+121305. Balloon pulmonary valvotomy,Procedure,26,5,No
+121309. Pulmonary valvar transluminal perforation & dilation,Procedure,26,5,No
+121312. Pulmonary valvectomy,Procedure,26,5,No
+121315. Pulmonary valve closure-oversewing,Procedure,26,5,No
+121321. Pulmonary valvar replacement (not conduit),Procedure,26,5,No
+121322. Pulmonary valvar replacement using homograft,Procedure,26,5,No
+121351. Transluminal pulmonary valvar insertion with stent mounted valve,Procedure,26,5,No
+"121355. Pulmonary valve repair converted to pulmonary valvar replacement,",Procedure,26,5,No
+121381. Transluminal aortic valvar insertion with stent mounted valve,Procedure,26,5,No
+121384. Transapical aortic valve implantation (hybrid approach),Procedure,26,5,No
+121401. Pulmonary trunk arterioplasty,Procedure,26,5,No
+121402. Pulmonary trunk band (PA band),Procedure,26,5,No
+121403. Pulmonary trunk band removal (de-band),Procedure,26,5,No
+121405. Balloon dilation of pulmonary trunk,Procedure,26,5,No
+"121419. Application of right & left pulmonary arterial bands,",Procedure,26,5,No
+121420. Pulmonary arterioplasty/ reconstruction,Procedure,26,5,No
+121421. Pulmonary arterioplasty/ reconstruction: central (proximal to hilar bifurcation),Procedure,26,5,No
+121422. Pulmonary arterioplasty/ reconstruction: peripheral (at-beyond hilar bifurcation),Procedure,26,5,No
+121430. Pulmonary artery origin from ascending aorta (hemitruncus) repair,Procedure,26,5,No
+121431. Pulmonary artery ligation,Procedure,26,5,No
+121503. Balloon dilation of right pulmonary artery,Procedure,26,5,No
+121504. Balloon dilation of left pulmonary artery,Procedure,26,5,No
+121511. Procedure involving pulmonary artery,Procedure,26,5,No
+121513. Stent placement in right pulmonary artery,Procedure,26,5,No
+121514. Stent placement in left pulmonary artery,Procedure,26,5,No
+121524. Pulmonary aneurysm repair,Procedure,26,5,No
+121525. Pulmonary trunk flow restriction using transcatheter implanted device,Procedure,26,5,No
+121548. Pulmonary thromboembolectomy,Procedure,26,5,No
+121549. Transluminal embolectomy from pulmonary tree,Procedure,26,5,No
+121550. Stent placement in pulmonary tree,Procedure,26,5,No
+121553. Balloon dilation of pulmonary tree with cutting balloon,Procedure,26,5,No
+121580. Pulmonary thromboembolectomy for acute embolus,Procedure,26,5,No
+121581. Pulmonary thromboembolectomy for chronic (longstanding) embolus,Procedure,26,5,No
+121600. Aortic valvar procedure,Procedure,26,5,No
+121602. Aortic valvotomy: open,Procedure,26,5,No
+121604. Aortic valvotomy: closed,Procedure,26,5,No
+121605. Balloon aortic valvotomy,Procedure,26,5,No
+121611. Aortic cusp(s) repair (valvoplasty),Procedure,26,5,No
+121614. Annuloplasty' of aortic valve,Procedure,26,5,No
+121621. Aortic valvar replacement,Procedure,26,5,No
+121622. Aortic valvar replacement using homograft,Procedure,26,5,No
+121625. Aortic valvar transluminal perforation & dilation,Procedure,26,5,No
+121628. Aortic valvar replacement using heterograft bioprosthesis,Procedure,26,5,No
+121629. Aortic valvar replacement using mechanical prosthesis,Procedure,26,5,No
+121630. Ross procedure: aortic valve or root replacement with pulmonary autograft & pulmonary valvar replacement,Procedure,26,5,No
+121633. Aortic root replacement + coronary artery reimplantation (Bentall),Procedure,26,5,No
+121635. Ascending aorta replacement & aortic valvar resuspension,Procedure,26,5,No
+121640. Supravalvar aortic stenosis repair,Procedure,26,5,No
+121642. Aorta aneurysm repair,Procedure,26,5,No
+121650. Aortic root replacement (not Ross),Procedure,26,5,No
+121659. Aortic dissection repair,Procedure,26,5,No
+121661. Aortic valve closure-oversewing,Procedure,26,5,No
+121662. Ross-Konno procedure,Procedure,26,5,No
+121663. Aortic root replacement using homograft,Procedure,26,5,No
+121664. Aortic root replacement using mechanical prosthesis,Procedure,26,5,No
+121665. Ascending aorta replacement,Procedure,26,5,No
+121666. Aortic arch aneurysm repair,Procedure,26,5,No
+121667. Descending aorta aneurysm repair,Procedure,26,5,No
+121668. Abdominal aorta aneurysm repair,Procedure,26,5,No
+121680. Aortic sinus of Valsalva procedure,Procedure,26,5,No
+121681. Aortic sinus of Valsalva distal fistula closure,Procedure,26,5,No
+121685. Aortic sinus of Valsalva aneurysm repair,Procedure,26,5,No
+121690. Aorto-left ventricular tunnel closure,Procedure,26,5,No
+"121697. Aortic valve repair converted to aortic valvar replacement,",Procedure,26,5,No
+121711. Vascular ring procedure,Procedure,26,5,No
+121731. Aortopexy,Procedure,26,5,No
+121732. Pulmonary arterial sling repair,Procedure,26,5,No
+121790. Aortic root replacement using bioprosthesis,Procedure,26,5,No
+121791. Aortic root replacement: valve sparing technique,Procedure,26,5,No
+121800. Coarctation-hypoplasia of aorta repair,Procedure,26,5,No
+121801. Aortic coarctation-hypoplasia repair by resection & end to end anastomosis,Procedure,26,5,No
+121802. Aortic coarctation-hypoplasia repair by patch aortoplasty,Procedure,26,5,No
+121803. Aortic coarctation-hypoplasia repair by subclavian flap aortoplasty,Procedure,26,5,No
+121804. Balloon dilation of native aortic coarctation-hypoplasia,Procedure,26,5,No
+121808. Balloon dilation of aortic recoarctation,Procedure,26,5,No
+121810. Aortic coarctation-hypoplasia repair by resection & extended end to end anastomosis,Procedure,26,5,No
+121815. Aortic coarctation-hypoplasia repair by resection & insertion of tube graft,Procedure,26,5,No
+121817. Stent placement at site of aortic coarctation,Procedure,26,5,No
+121822. Stent placement at site of aortic recoarctation,Procedure,26,5,No
+121827. Aortic coarctation transluminal obstruction relief,Procedure,26,5,No
+121830. Aortic arch repair,Procedure,26,5,No
+121848. Stent placement at site of native aortic coarctation-hypoplasia,Procedure,26,5,No
+121870. Thoracic aorta aneurysm transcatheter stent implantation,Procedure,26,5,No
+"122020. Hypoplastic left heart syndrome hybrid approach (transcatheter & surgery): stage 1,",Procedure,26,5,No
+122021. Hypoplastic left heart syndrome hybrid approach (transcatheter & surgery),Procedure,26,5,No
+"122022. Hypoplastic left heart syndrome hybrid approach (transcatheter & surgery) 'stage 2': aortopulmonary amalgamation + superior cavopulmonary anastomosis(es) + debanding of pulmonary arteries,",Procedure,26,5,No
+"122023. Hypoplastic left heart syndrome hybrid approach (transcatheter & surgery) 'stage 2': aortopulmonary amalgamation + superior cavopulmonary anastomosis(es) + debanding of pulmonary arteries + arch repair,",Procedure,26,5,No
+122100. Interrupted aortic arch repair,Procedure,26,5,No
+122200. Systemic arterial procedure,Procedure,26,5,No
+122300. Anomalous coronary artery (eg ALCAPA) repair,Procedure,26,5,No
+122307. Coronary fistula procedure,Procedure,26,5,No
+122308. Coronary arterial bypass graft (CABG) procedure,Procedure,26,5,No
+122309. Coronary arterial procedure,Procedure,26,5,No
+122311. Ligation of coronary fistula,Procedure,26,5,No
+122313. Coronary arterial fistula transluminal occlusion,Procedure,26,5,No
+122330. Transluminal intracoronary injection of thrombolytic agent,Procedure,26,5,No
+122331. Transluminal balloon coronary angioplasty (PTCA),Procedure,26,5,No
+122338. Transluminal coronary stent implantation,Procedure,26,5,No
+122342. Transluminal chemical occlusion of coronary artery,Procedure,26,5,No
+"122380. Anomalous aortic origin of coronary artery repair,",Procedure,26,5,No
+122400. Arterial duct-ligament procedure,Procedure,26,5,No
+122404. Arterial duct (PDA) closure with transluminal device,Procedure,26,5,No
+122410. Arterial duct (PDA) closure,Procedure,26,5,No
+122420. Patent arterial duct (PDA) closure: surgical,Procedure,26,5,No
+122421. Arterial duct (PDA) closure with transluminal coil,Procedure,26,5,No
+122422. Arterial duct (PDA) closure with transluminal Amplatzer plug,Procedure,26,5,No
+122500. Systemic-to-pulmonary collateral artery(ies) (MAPCA(s)) unifocalisation procedure,Procedure,26,5,No
+122502. Arteriovenous fistula occlusion,Procedure,26,5,No
+122507. Pulmonary arteriovenous fistula closure,Procedure,26,5,No
+122518. Systemic-to-pulmonary collateral artery(ies) (MAPCA(s)) occlusion,Procedure,26,5,No
+122519. Transluminal procedure to systemic-to-pulmonary collateral artery (MAPCA(s)),Procedure,26,5,No
+122562. Stent placement in systemic-to-pulmonary collateral artery (MAPCA(s)),Procedure,26,5,No
+122565. Transluminal occlusion of systemic-to-pulmonary collateral artery(ies) (MAPCA(s)) with coil-device,Procedure,26,5,No
+122572. Balloon dilation of systemic-to-pulmonary collateral artery(ies) (MAPCA(s)),Procedure,26,5,No
+122601. Tetralogy of Fallot repair,Procedure,26,5,No
+122613. Tetralogy of Fallot repair with transannular patch,Procedure,26,5,No
+122620. Tetralogy of Fallot repair without transannular patch,Procedure,26,5,No
+122621. Absent pulmonary valve syndrome (Fallot type) repair,Procedure,26,5,No
+122701. Double outlet right ventricle with subaortic or doubly committed VSD & pulmonary stenosis (Fallot-type) repair,Procedure,26,5,No
+122702. Double outlet right ventricle repair with intraventricular tunnel,Procedure,26,5,No
+122745. REV procedure: intraventricular left ventricle to aorta tunnel with infundibular septum resection & direct right ventricle to pulmonary trunk anastomosis,Procedure,26,5,No
+122746. Congenitally corrected transposition of great arteries repair,Procedure,26,5,No
+122750. Double outlet left ventricle repair,Procedure,26,5,No
+"122778. Aortic root translocation to over left ventricle (including Nikaidoh),",Procedure,26,5,No
+122801. Pulmonary atresia & VSD (including Fallot-type) repair,Procedure,26,5,No
+"122811. Pulmonary atresia, VSD & systemic-to-pulmonary collateral artery(ies) (MAPCA(s)) repair",Procedure,26,5,No
+122901. Senning procedure (atrial inversion),Procedure,26,5,No
+122902. Mustard procedure (atrial inversion),Procedure,26,5,No
+122911. Rastelli procedure: intraventricular left ventricle to aorta tunnel & right ventricle to pulmonary artery conduit,Procedure,26,5,No
+122920. Double outlet right ventricle repair,Procedure,26,5,No
+122921. Arterial switch procedure,Procedure,26,5,No
+122925. Arterial switch & atrial inversion procedures ('double switch'),Procedure,26,5,No
+122926. Atrial inversion and Rastelli procedures,Procedure,26,5,No
+122940. Complex transposition of great arteries repair,Procedure,26,5,No
+122952. Pulmonary venous pathway procedure (post Senning-Mustard),Procedure,26,5,No
+122979. Atrial inversion procedure (Mustard or Senning) revision,Procedure,26,5,No
+123001. Fontan type procedure,Procedure,26,5,No
+"123005. Total cavopulmonary connection (TCPC) using extracardiac inferior caval vein (IVC)-pulmonary artery conduit with fenestration,",Procedure,26,5,No
+"123006. Total cavopulmonary connection (TCPC) with fenestrated lateral atrial tunnel,",Procedure,26,5,No
+123013. Fontan procedure with atrioventricular connection,Procedure,26,5,No
+123020. Fenestration of atrial septum,Procedure,26,5,No
+123021. Right atrial septum-tunnel fenestration closure with transluminal device,Procedure,26,5,No
+123027. Fenestration of Fontan type connection,Procedure,26,5,No
+123028. Fontan-type connection without fenestration,Procedure,26,5,No
+123031. Takedown of Fontan type procedure,Procedure,26,5,No
+123032. Fontan procedure with direct atriopulmonary anastomosis,Procedure,26,5,No
+123034. Conversion of Fontan repair to total cavopulmonary connection,Procedure,26,5,No
+123037. Fontan type procedure revision or conversion,Procedure,26,5,No
+123041. Atrial fenestration closure,Procedure,26,5,No
+123050. Total cavopulmonary connection (TCPC),Procedure,26,5,No
+123051. Total cavopulmonary conn (TCPC) with lateral atrial tunnel,Procedure,26,5,No
+123054. Total cavopulmonary connection (TCPC) using extracardiac inferior caval vein (IVC)-pulmonary artery conduit,Procedure,26,5,No
+123056. Takedown of total cavopulmonary connection (TCPC),Procedure,26,5,No
+123060. Completion of total cavopulmonary connection (TCPC) using transcatheter inferior to superior caval vein covered stent,Procedure,26,5,No
+123074. Transluminal interatrial communication creation,Procedure,26,5,No
+123103. Modified right Blalock interposition shunt,Procedure,26,5,No
+123104. Modified left Blalock interposition shunt,Procedure,26,5,No
+123105. Waterston (ascending aorta-right pulmonary artery) anastomosis,Procedure,26,5,No
+123106. Central systemic-to-pulmonary arterial interposition shunt,Procedure,26,5,No
+123111. Bidirectional superior cavopulmonary (Glenn) anastomosis,Procedure,26,5,No
+123115. Hemi-Fontan procedure,Procedure,26,5,No
+123119. Balloon dilation of systemic-PA shunt,Procedure,26,5,No
+123130. Systemic-to-pulmonary arterial shunt procedure,Procedure,26,5,No
+123131. Closure of systemic-to-pulmonary arterial shunt,Procedure,26,5,No
+123134. Occlusion of systemic-PA shunt by transluminal embolus/device,Procedure,26,5,No
+123142. Takedown of Glenn,Procedure,26,5,No
+123144. Bilateral bidirectional superior cavopulmonary (Glenn) anastomoses,Procedure,26,5,No
+123145. Unidirectional superior cavopulmonary (Glenn) anastomosis,Procedure,26,5,No
+123146. Modified Blalock interposition shunt,Procedure,26,5,No
+"123172. Superior caval vein to pulmonary artery anastomosis,",Procedure,26,5,No
+123200. Post-operative procedure,Procedure,26,5,No
+123206. Lung biopsy procedure,Procedure,26,5,No
+123209. Pericardiectomy,Procedure,26,5,No
+123210. Heart tumour resection,Procedure,26,5,No
+123213. Transplantation of heart and lungs,Procedure,26,5,No
+123214. DC cardioversion,Procedure,26,5,No
+123217. Parietal pleurectomy,Procedure,26,5,No
+123218. Post-operative procedure to control bleeding,Procedure,26,5,No
+123220. Removal of cardiac vegetations,Procedure,26,5,No
+123221. Cardiac procedure,Procedure,26,5,No
+123222. Removal of cardiac thrombus,Procedure,26,5,No
+123228. Thoracic duct occlusion,Procedure,26,5,No
+"123229. Diaphragm procedure,",Procedure,26,5,No
+123240. Pericardiocentesis,Procedure,26,5,No
+123241. Pericardial drainage: open (pericardiotomy),Procedure,26,5,No
+123243. Pericardiocentesis: percutaneous transcatheter,Procedure,26,5,No
+123246. Pericardial window creation,Procedure,26,5,No
+123253. Pericardial biopsy,Procedure,26,5,No
+123259. Procedure involving pericardium,Procedure,26,5,No
+123270. Plication of hemidiaphragm,Procedure,26,5,No
+123280. Insertion of pleural tube drain,Procedure,26,5,No
+123283. Insertion of mediastinal tube drain,Procedure,26,5,No
+123290. Instigation of renal dialysis,Procedure,26,5,No
+123310. Traumatic injury of heart repair,Procedure,26,5,No
+123351. Peripheral vascular procedure,Procedure,26,5,No
+123352. Non-cardiothoracic-vascular procedure,Procedure,26,5,No
+"123353. Non-cardiothoracic-vascular procedure on cardiac patient under cardiac anaesthesia,",Procedure,26,5,No
+123360. Operation related to transcatheter procedure,Procedure,26,5,No
+123370. Medical management of pericardial disease,Procedure,26,5,No
+123450. Pacemaker system placement: single chamber,Procedure,26,5,No
+123451. Pacemaker system placement: dual chamber,Procedure,26,5,No
+123452. Pacemaker system placement: biventricular,Procedure,26,5,No
+123460. Pacemaker system placement: temporary,Procedure,26,5,No
+123463. Pacemaker system placement: permanent epicardial,Procedure,26,5,No
+123464. Pacemaker system placement: permanent endocardial,Procedure,26,5,No
+123467. Pacemaker system placement: permanent,Procedure,26,5,No
+123468. Pacemaker procedure,Procedure,26,5,No
+123470. Pacemaker wire procedure,Procedure,26,5,No
+123473. Cardiac resynchronisation therapy (biventricular pacing),Procedure,26,5,No
+123484. Pacemaker wire revision procedure,Procedure,26,5,No
+123485. Pulse generator box placement,Procedure,26,5,No
+123513. Pulse generator box replacement,Procedure,26,5,No
+"123514. Removal of complete implanted cardiac pacemaker system,",Procedure,26,5,No
+123540. Arrhythmia surgical procedure,Procedure,26,5,No
+123546. Transluminal cryoablation procedure for arrhythmia,Procedure,26,5,No
+123548. Transluminal radiofrequency ablation procedure for arrhythmia,Procedure,26,5,No
+123553. Maze operation,Procedure,26,5,No
+123557. Transluminal procedure for arrhythmia,Procedure,26,5,No
+123560. Pacing to abolish arrhythmia,Procedure,26,5,No
+"123572. Cox-Maze IV procedure,",Procedure,26,5,No
+123580. Surgical ablation procedure for atrial arrhythmia,Procedure,26,5,No
+123581. Surgical ablation procedure for ventricular arrhythmia,Procedure,26,5,No
+123582. Transluminal procedure for atrial arrhythmia,Procedure,26,5,No
+123583. Transluminal procedure for ventricular arrhythmia,Procedure,26,5,No
+123584. Transluminal ablation procedure with pulmonary vein exclusion,Procedure,26,5,No
+123600. Conduit construction procedure,Procedure,26,5,No
+123601. Right ventricle to pulmonary arterial tree conduit construction,Procedure,26,5,No
+123602. Left ventricle to pulmonary artery conduit construction,Procedure,26,5,No
+123610. Replacement of cardiac conduit,Procedure,26,5,No
+123614. Balloon dilation of cardiac conduit,Procedure,26,5,No
+123623. Stent placement in cardiac conduit,Procedure,26,5,No
+123635. Ventricle to aorta conduit construction,Procedure,26,5,No
+123640. Procedure involving constructed cardiac conduit-shunt,Procedure,26,5,No
+123701. Heart transplant,Procedure,26,5,No
+123702. Transplantation of heart: orthotopic allotransplant,Procedure,26,5,No
+123703. Transplantation of heart: heterotopic (piggy back) allotransplant,Procedure,26,5,No
+123704. Prosthetic heart implantation,Procedure,26,5,No
+123706. Transplantation of heart: ABO incompatible donor,Procedure,26,5,No
+123713. Single lung transplant,Procedure,26,5,No
+123720. Double lung transplant,Procedure,26,5,No
+"123760. Lung(s) transplant,",Procedure,26,5,No
+123770. Organ procurement for transplantation,Procedure,26,5,No
+"123825. Transluminal left atrial appendage occlusion with device,",Procedure,26,5,No
+"123840. Transluminal ablation procedure for arrhythmia,",Procedure,26,5,No
+123850. Surgical localisation and mapping procedure for arrhythmia,Procedure,26,5,No
+"123869. Percutaneous radiofrequency epicardial ablation procedure for arrhythmia,",Procedure,26,5,No
+"124000. Thoracotomy,",Procedure,26,5,No
+124006. Thoracoscopic approach (VATS),Procedure,26,5,No
+124013. Minimally invasive procedure,Procedure,26,5,No
+124015. Robotic surgical approach,Procedure,26,5,No
+124016. Thoracotomy: redo,Procedure,26,5,No
+124029. Median sternotomy: redo x 1-3,Procedure,26,5,No
+124030. Median sternotomy: redo x 4 or more,Procedure,26,5,No
+"124099. Cardiac incision,",Procedure,26,5,No
+124130. Hybrid approach (combined surgical & transluminal),Procedure,26,5,No
+124231. Implantable cardioverter & defibrillator (ICD) implantation,Procedure,26,5,No
+124233. Automatic cardioverter & defibrillator (AICD) transluminal implantation,Procedure,26,5,No
+124234. Implantable cardioverter & defibrillator (ICD) system removal,Procedure,26,5,No
+124235. Automatic cardioverter & defibrillator (AICD) transluminal removal,Procedure,26,5,No
+124239. Implantable cardioverter & defibrillator (AICD) procedure,Procedure,26,5,No
+124261. Implantable cardioverter & defibrillator (ICD) implantation: single chamber,Procedure,26,5,No
+124264. Implantable cardioverter & defibrillator (ICD) implantation: dual chamber,Procedure,26,5,No
+124265. Implantable cardioverter & defibrillator (ICD) implantation: biventricular,Procedure,26,5,No
+124300. Reoperation,Procedure,26,5,No
+"124325. Palliative procedure,",Procedure,26,5,No
+124475. Removal of implanted pacemaker lead,Procedure,26,5,No
+124500. Cardiovascular catheter procedure,Procedure,26,5,No
+124501. Catheterisation transeptal approach with transeptal puncture,Procedure,26,5,No
+124504. Transluminal retrieval of device or foreign body,Procedure,26,5,No
+124506. Repeat cardiovascular catheter procedure for residual or recurrent lesion,Procedure,26,5,No
+"124507. Transluminal diagnostic test occlusion,",Procedure,26,5,No
+124510. Stent redilation,Procedure,26,5,No
+124511. Stent placement,Procedure,26,5,No
+124512. Balloon dilation,Procedure,26,5,No
+124513. Transluminal device implantation,Procedure,26,5,No
+124514. Cardiovascular catherisation occlusion procedure with coil,Procedure,26,5,No
+"124515. Transluminal implantation of valve,",Procedure,26,5,No
+124519. Transluminal prosthetic valve leak closure using device,Procedure,26,5,No
+"124521. Balloon dilation of valve,",Procedure,26,5,No
+"124528. Therapeutic cardiovascular catheter procedure,",Procedure,26,5,No
+124530. Transluminal procedure for catheterisation complication,Procedure,26,5,No
+"124558. Transluminal therapeutic perforation to establish interchamber and/or intervessel communication,",Procedure,26,5,No
+"124559. Transluminal procedure using adjunctive therapy,",Procedure,26,5,No
+124600. AV valvar procedure in double inlet ventricle,Procedure,26,5,No
+"124801. Common atrioventricular valvar leaflet (valvoplasty) procedure,",Procedure,26,5,No
+124802. AVSD: suturing together superior + inferior bridging leaflets to left ventricular side of septum ('cleft'),Procedure,26,5,No
+126400. Bronchoscopy,Procedure,26,5,No
+126408. Bronchoscopic removal of foreign body,Procedure,26,5,No
+126420. Tracheal procedure,Procedure,26,5,No
+126421. Tracheostomy creation,Procedure,26,5,No
+126440. Tracheobronchial reconstruction procedure,Procedure,26,5,No
+126505. Mediastinal exploration,Procedure,26,5,No
+126506. Mediastinal procedure,Procedure,26,5,No
+126513. Pectus carinatum repair,Procedure,26,5,No
+126514. Pectus excavatum repair,Procedure,26,5,No
+126523. Anterior chest wall (pectus) repair,Procedure,26,5,No
+126545. Debridement of chest wall incision,Procedure,26,5,No
+126548. Sternal wire removal from previous sternotomy,Procedure,26,5,No
+126556. Sternotomy wound drainage,Procedure,26,5,No
+126560. Delayed closure of sternum,Procedure,26,5,No
+126572. Open excision of pleural lesion,Procedure,26,5,No
+126582. Pleurodesis,Procedure,26,5,No
+126589. Pleural procedure,Procedure,26,5,No
+126600. Lung procedure,Procedure,26,5,No
+126601. Lung decortication,Procedure,26,5,No
+126602. Lung mass excision,Procedure,26,5,No
+126605. Lung lobectomy,Procedure,26,5,No
+126606. Pneumonectomy,Procedure,26,5,No
+126607. Lung sequestration repair,Procedure,26,5,No
+127008. Venovenous collateral occlusion with device,Procedure,26,5,No
+128000. Thoracic-mediastinal procedure,Procedure,26,5,No
+128001. Oesophageal procedure,Procedure,26,5,No
+128010. Intestinal procedure,Procedure,26,5,No
+128037. Percutaneous feeding gastrostomy tube placement (PEG),Procedure,26,5,No
+128038. Laparotomy,Procedure,26,5,No
+128701. Cardiac support procedure,Procedure,26,5,No
+128702. Intra-aortic balloon pump (IABP) removal: transluminal,Procedure,26,5,No
+128704. Intra-aortic balloon pump (IABP) insertion: open,Procedure,26,5,No
+128710. Intra-aortic balloon pump (IABP) insertion,Procedure,26,5,No
+128721. Ventricular assist device implantation,Procedure,26,5,No
+128722. Right ventricular assist device implantation,Procedure,26,5,No
+128723. Left ventricular assist device implantation,Procedure,26,5,No
+128724. Biventricular assist device implantation,Procedure,26,5,No
+128725. Cardiac support using Extracorporeal Membrane Oxygenation (ECMO) circuitry,Procedure,26,5,No
+"128728. Procedure involving Extracorporeal Membrane Oxygenation (ECMO) circuitry,",Procedure,26,5,No
+128731. Cardiomyoplasty procedure,Procedure,26,5,No
+128741. Ventricular assist device removal,Procedure,26,5,No
+128745. Take down of Extracorporeal Membrane Oxygenation (ECMO) circuitry,Procedure,26,5,No
+"129001. Atrioventricular valvar repair,",Procedure,26,5,No
+130123. Transcatheter intervention with intracardiac echo guidance (ICE),Procedure,26,5,No
+130501. Diagnostic cardiovascular catheterisation procedure,Procedure,26,5,No
+"130505. Diagnostic cardiovascular catheterisation procedure: angiographic data obtained,",Procedure,26,5,No
+"130506. Diagnostic cardiovascular catheterisation procedure: haemodynamic data obtained,",Procedure,26,5,No
+"130507. Diagnostic cardiovascular catheterisation procedure with haemodynamic alteration (challenge),",Procedure,26,5,No
+"130508. Diagnostic cardiovascular catheterisation procedure with electrophysiological alteration (challenge),",Procedure,26,5,No
+130512. Electrophysiological study (EPS),Procedure,26,5,No
+130513. Catheterisation study for pulmonary hypertension evaluation,Procedure,26,5,No
+130514. Transcatheter procedure undertaken with x-ray guidance,Procedure,26,5,No
+130515. Transcatheter procedure undertaken with magnetic resonance imaging guidance,Procedure,26,5,No
+130516. Transcatheter procedure undertaken with x-ray & magnetic resonance imaging guidance,Procedure,26,5,No
+130517. Electrophysiological study (EPS) with three dimensional mapping,Procedure,26,5,No
+Q50811. - transatrial approach,Procedure,26,5,No
+Q50812. - trans-right ventricular approach,Procedure,26,5,No
+"Q50813. - trans-right ventricular approach,",Procedure,26,5,No
+"Q58530. - with sedation,",Procedure,26,5,No
+030102. Visceral heterotaxy (abnormal arrangement thoraco-abdominal organs),Comorbidity,27,5,No
+030109. Position or morphology of thoraco-abdominal organs abnormal,Comorbidity,27,5,No
+030209. Lung anomaly,Comorbidity,27,5,No
+030214. Functionally congenital single lung,Comorbidity,27,5,No
+030305. Tracheobronchial anomaly,Comorbidity,27,5,No
+030603. Intestines malrotated,Comorbidity,27,5,No
+030703. Spleen absent (asplenia),Comorbidity,27,5,No
+030704. Multiple spleens (polysplenia),Comorbidity,27,5,No
+100665. Preprocedural endocarditis,Comorbidity,27,5,No
+101363. Elevated lung resistance for biventricular repair (> 6 Wood units),Comorbidity,27,5,No
+101364. Elevated lung resistance for heart transplant (> 4 Wood units),Comorbidity,27,5,No
+101365. Elevated lung resistance for univentricular repair (> 2 Wood units),Comorbidity,27,5,No
+101400. Secondary systemic hypertension,Comorbidity,27,5,No
+101402. Primary (essential) systemic hypertension,Comorbidity,27,5,No
+101444. Abdominal aorta aneurysm,Comorbidity,27,5,No
+101445. Rupture of thoracic aortic aneurysm,Comorbidity,27,5,No
+101446. Rupture of abdominal aortic aneurysm,Comorbidity,27,5,No
+101454. Descending aorta dissection & distal propagation (DeBakey type III/ Stanford type B),Comorbidity,27,5,No
+101460. Systemic arteritis,Comorbidity,27,5,No
+101501. Persistent pulmonary hypertension of the newborn (PFC),Comorbidity,27,5,No
+101505. Necrotising enterocolitis,Comorbidity,27,5,No
+101512. Meconium aspiration,Comorbidity,27,5,No
+102002. Preprocedural shock,Comorbidity,27,5,No
+102003. Preprocedural arrhythmia,Comorbidity,27,5,No
+102005. Preprocedural acidosis,Comorbidity,27,5,No
+102006. Preprocedural coagulation disorder,Comorbidity,27,5,No
+102007. Preprocedural renal failure (creatinine >176),Comorbidity,27,5,No
+102008. Preprocedural renal failure requiring dialysis,Comorbidity,27,5,No
+102009. Preprocedural septicaemia,Comorbidity,27,5,No
+102012. Preprocedural neurological impairment,Comorbidity,27,5,No
+102013. Preprocedural cerebral abnormality on imaging,Comorbidity,27,5,No
+102014. Preprocedural mechanical ventilatory support,Comorbidity,27,5,No
+102015. Preprocedural mechanical circulatory support,Comorbidity,27,5,No
+102016. Preprocedural pulmonary hypertension,Comorbidity,27,5,No
+102017. Preprocedural tracheostomy,Comorbidity,27,5,No
+102018. Preprocedural seizures,Comorbidity,27,5,No
+102031. Preprocedural shock at time of surgery (persistent),Comorbidity,27,5,No
+102032. Preprocedural shock resolved by time of surgery,Comorbidity,27,5,No
+102033. Preprocedural cardiopulmonary resuscitation (< 48 hours),Comorbidity,27,5,No
+102037. Preprocedural respiratory syncytial virus (RSV) infection,Comorbidity,27,5,No
+102038. Preprocedural necrotising enterocolitis: treated medically,Comorbidity,27,5,No
+102039. Preprocedural necrotising enterocolitis: treated surgically,Comorbidity,27,5,No
+102040. Preprocedural pulmonary hypertension (pulmonary pressure > or = systemic pressure): echo data,Comorbidity,27,5,No
+102041. Preprocedural pulmonary hypertension (pulmonary pressure > or = systemic pressure): catheter data,Comorbidity,27,5,No
+"102045. Preprocedural pulmonary hypertension (pulmonary pressure more than or equal to systemic pressure): echo data,",Comorbidity,27,5,No
+102046. Preprocedural pulmonary hypertension (pulmonary pressure more than or equal to systemic pressure): catheter data,Comorbidity,27,5,No
+102202. Premature birth,Comorbidity,27,5,No
+102203. Infant of diabetic mother,Comorbidity,27,5,No
+102205. Premature birth 32-35 weeks,Comorbidity,27,5,No
+102206. Premature birth < 32 weeks,Comorbidity,27,5,No
+102304. Hereditary disorder associated with heart disease,Comorbidity,27,5,No
+109024. Traumatic injury of tracheobronchial tree or lungs,Comorbidity,27,5,No
+140101. Chromosomal anomaly,Comorbidity,27,5,No
+140102. Trisomy 21: Down?s syndrome,Comorbidity,27,5,No
+140103. Trisomy 18: Edwards' syndrome,Comorbidity,27,5,No
+140104. Trisomy 13: Patau's syndrome,Comorbidity,27,5,No
+140105. 45XO: Turner?s syndrome,Comorbidity,27,5,No
+140121. 22q11 microdeletion,Comorbidity,27,5,No
+140200. Syndrome-association with cardiac involvement,Comorbidity,27,5,No
+140206. DiGeorge sequence,Comorbidity,27,5,No
+140210. Friedreich?s ataxia,Comorbidity,27,5,No
+140217. Marfan syndrome,Comorbidity,27,5,No
+140219. Noonan syndrome,Comorbidity,27,5,No
+140221. Pompe?s disease: glycogen storage disease type IIa,Comorbidity,27,5,No
+140228. Tuberous sclerosis,Comorbidity,27,5,No
+140230. Williams syndrome (infantile hypercalcaemia),Comorbidity,27,5,No
+140232. Fetal rubella syndrome,Comorbidity,27,5,No
+140234. Duchenne?s muscular dystrophy,Comorbidity,27,5,No
+140258. Muscular dystrophy,Comorbidity,27,5,No
+140266. Alagille syndrome: arteriohepatic dysplasia,Comorbidity,27,5,No
+140300. Non-cardiac abnormality associated with heart disease,Comorbidity,27,5,No
+140304. Non-cardiothoracic-vascular abnormality,Comorbidity,27,5,No
+140305. Psychomotor developmental delay,Comorbidity,27,5,No
+140306. Cystic fibrosis,Comorbidity,27,5,No
+140307. Congenital diaphragmatic hernia,Comorbidity,27,5,No
+140308. Tracheo-oesophageal fistula,Comorbidity,27,5,No
+140309. Gastro-oesophageal reflux disease (GORD),Comorbidity,27,5,No
+140310. Omphalocoele,Comorbidity,27,5,No
+140311. Duodenal stenosis/atresia,Comorbidity,27,5,No
+140323. Renal abnormality,Comorbidity,27,5,No
+140328. Congenital coagulation disorder,Comorbidity,27,5,No
+140329. Thoracic-mediastinal abnormality,Comorbidity,27,5,No
+140333. Microcephaly,Comorbidity,27,5,No
+140340. Brain abscess,Comorbidity,27,5,No
+"140342. Cerebrovascular accident (stroke),",Comorbidity,27,5,No
+"140344. Transient ischaemic attack: less than 24 hours (TIA),",Comorbidity,27,5,No
+140347. Choanal atresia,Comorbidity,27,5,No
+140349. Tracheobronchial malacia,Comorbidity,27,5,No
+140352. Hypothyroidism,Comorbidity,27,5,No
+140359. Obesity (Body Mass Index over 30),Comorbidity,27,5,No
+140372. Anoxic-ischaemic encephalopathy,Comorbidity,27,5,No
+140375. Hyperthyroidism,Comorbidity,27,5,No
+140390. Diabetes mellitus,Comorbidity,27,5,No
+140391. Cerebral anomaly,Comorbidity,27,5,No
+140392. Connective tissue disease,Comorbidity,27,5,No
+"140397. Reversible ischaemic neurologic deficit: 24-72 hours (RIND),",Comorbidity,27,5,No
+140404. Pectus carinatum,Comorbidity,27,5,No
+140405. Pectus excavatum,Comorbidity,27,5,No
+140409. Kyphoscoliosis,Comorbidity,27,5,No
+140412. Cleft lip or palate,Comorbidity,27,5,No
+140414. Anterior chest wall (pectus) deformity,Comorbidity,27,5,No
+140501. Maternal teratogen associated with congenital heart disease,Comorbidity,27,5,No
+140601. Multiple congenital malformations,Comorbidity,27,5,No
+152231. Residual pulmonary hypertension after relief of L to R shunt,Comorbidity,27,5,No
+158210. Renal failure,Comorbidity,27,5,No
+159503. Lymphoproliferative disease following transplantation,Comorbidity,27,5,No
+160111. Empyema,Comorbidity,27,5,No
+160200. Bronchial fistula,Comorbidity,27,5,No
+160305. Lung disease,Comorbidity,27,5,No
+160310. Asthma,Comorbidity,27,5,No
+160513. Mediastinal disease,Comorbidity,27,5,No
+160800. Acquired bronchial disease,Comorbidity,27,5,No
+160900. Airway disease,Comorbidity,27,5,No
+161001. Tracheal stenosis,Comorbidity,27,5,No
+161009. Tracheal disease,Comorbidity,27,5,No
+161300. Diaphragm disorder: acquired,Comorbidity,27,5,No
+161320. Diaphragm paralysis,Comorbidity,27,5,No
+162010. Oesophageal disorder,Comorbidity,27,5,No
+163001. Respiratory failure,Comorbidity,27,5,No
+Q19182. - status: post lung(s) transplant,Comorbidity,27,5,No
+010100. Normal heart,Normal,28,5,No
+010300. Usual atrial arrangement (atrial situs solitus),Normal,28,5,No
+"010310. Normal atrial arrangement (situs), AV & VA connections",Normal,28,5,No
+010500. Concordant VA connections,Normal,28,5,No
+"020103. Laevocardia: heart predominantly in left hemithorax,",Normal,28,5,No
+050310. Intact atrial septum (no interatrial communication),Normal,28,5,No
+071601. Spontaneous closure of VSD,Normal,28,5,No
+072001. Aneurysm of membranous septum,Normal,28,5,No
+072100. Intact ventricular septum,Normal,28,5,No
+101201. Innocent murmur,Normal,28,5,No
+102000. No pre-procedural risk factors,Normal,28,5,No
+141072. Liveborn,Normal,28,5,No
+100811. Postpericardiotomy syndrome,EMPTY/Unknown,29,5,No
+101242. Chest pain,EMPTY/Unknown,29,5,No
+101251. Angina pectoris,EMPTY/Unknown,29,5,No
+101500. Neonatal disorder,EMPTY/Unknown,29,5,No
+101700. Symptom-sign of heart disease,EMPTY/Unknown,29,5,No
+101703. Cyanosis,EMPTY/Unknown,29,5,No
+101705. Heart failure,EMPTY/Unknown,29,5,No
+101709. Cardiac symptom without pathology,EMPTY/Unknown,29,5,No
+101712. Cyanotic spells,EMPTY/Unknown,29,5,No
+101713. Palpitations,EMPTY/Unknown,29,5,No
+101750. Platypnoea-orthodeoxia syndrome,EMPTY/Unknown,29,5,No
+101824. Postmyocardial infarction complication,EMPTY/Unknown,29,5,No
+101852. Musculoskeletal chest pain,EMPTY/Unknown,29,5,No
+101901. Dyslipidaemia,EMPTY/Unknown,29,5,No
+102019. Preprocedural risk factor,EMPTY/Unknown,29,5,No
+102207. Weight less than 2.5 kg,EMPTY/Unknown,29,5,No
+102300. Hereditary-non-cardiac abnormality not apparent,EMPTY/Unknown,29,5,No
+102301. Family history of congenital heart lesion,EMPTY/Unknown,29,5,No
+102302. Maternal SLE,EMPTY/Unknown,29,5,No
+102303. Family history of disorder with cardiac involvement,EMPTY/Unknown,29,5,No
+"102311. Family history of sudden death,",EMPTY/Unknown,29,5,No
+103030. Pulmonary oedema,EMPTY/Unknown,29,5,No
+104001. Syncope,EMPTY/Unknown,29,5,No
+104030. Hypotension,EMPTY/Unknown,29,5,No
+110021. Cardiac arrest,EMPTY/Unknown,29,5,No
+110204. Sinus bradycardia,EMPTY/Unknown,29,5,No
+110207. Sinus tachycardia,EMPTY/Unknown,29,5,No
+110215. Vagal sinus bradycardia: bradycardia(s) of prematurity,EMPTY/Unknown,29,5,No
+110321. Premature atrial beats (complexes-contractions),EMPTY/Unknown,29,5,No
+110412. Junctional ectopic tachycardia (His bundle): post-op,EMPTY/Unknown,29,5,No
+110617. Postprocedural complete AV block,EMPTY/Unknown,29,5,No
+110632. Procedure related complete AV block requiring temporary pacing,EMPTY/Unknown,29,5,No
+110633. Procedure related complete AV block requiring permanent pacemaker system,EMPTY/Unknown,29,5,No
+112000. ECG abnormality,EMPTY/Unknown,29,5,No
+122341. Transluminal intracoronary echocardiography (IVUS),EMPTY/Unknown,29,5,No
+123203. Exploratory procedure to assess heart,EMPTY/Unknown,29,5,No
+123331. Intraoperative death,EMPTY/Unknown,29,5,No
+123333. Death within 30 days of procedure,EMPTY/Unknown,29,5,No
+123334. Death unrelated to cardiac procedure,EMPTY/Unknown,29,5,No
+124570. Fetal transluminal catheter procedure,EMPTY/Unknown,29,5,No
+124571. Fetal balloon pulmonary valvotomy,EMPTY/Unknown,29,5,No
+124573. Fetal balloon aortic valvotomy,EMPTY/Unknown,29,5,No
+124575. Fetal pericardiocentesis: transcatheter,EMPTY/Unknown,29,5,No
+124576. Fetal balloon atrial septostomy,EMPTY/Unknown,29,5,No
+124590. Fetal procedure,EMPTY/Unknown,29,5,No
+124591. Division of placental communicating vessels in twin-to-twin transfusion syndrome by laser coagulation,EMPTY/Unknown,29,5,No
+130001. Clinical evaluation of patient,EMPTY/Unknown,29,5,No
+130002. Diagnostic investigation,EMPTY/Unknown,29,5,No
+130010. Electrocardiogram (ECG),EMPTY/Unknown,29,5,No
+130011. 24 hour electrocardiogram (ECG) recording,EMPTY/Unknown,29,5,No
+130013. Exercise stress test,EMPTY/Unknown,29,5,No
+130014. Insertable electrocardiogram (ECG) loop recorder (e.g. Reveal) implantation,EMPTY/Unknown,29,5,No
+130015. Insertable electrocardiogram (ECG) loop recorder (e.g. Reveal) removal,EMPTY/Unknown,29,5,No
+130016. Cardiopulmonary exercise stress test,EMPTY/Unknown,29,5,No
+130017. Ambulatory electrocardiography (ECG) recording,EMPTY/Unknown,29,5,No
+130021. Chest x-ray,EMPTY/Unknown,29,5,No
+130023. Computerised tomographic scan of chest,EMPTY/Unknown,29,5,No
+130024. Cardiovascular Magnetic Resonance Imaging (CMRI),EMPTY/Unknown,29,5,No
+130025. Pulmonary Function Tests,EMPTY/Unknown,29,5,No
+130027. Tilt table testing,EMPTY/Unknown,29,5,No
+130031. Myocardial perfusion scan,EMPTY/Unknown,29,5,No
+"130032. Non-cardiac computed tomographic angiography on cardiac patient,",EMPTY/Unknown,29,5,No
+"130033. Non-cardiovascular Magnetic Resonance Imaging on cardiac patient,",EMPTY/Unknown,29,5,No
+"130034. Diagnostic radiographic procedure on cardiac patient,",EMPTY/Unknown,29,5,No
+"130035. Therapeutic radiological procedure on cardiac patient,",EMPTY/Unknown,29,5,No
+"130036. Ambulatory blood pressure monitoring,",EMPTY/Unknown,29,5,No
+130050. Arrhythmia provocation test,EMPTY/Unknown,29,5,No
+130071. Post mortem examination of heart-lungs,EMPTY/Unknown,29,5,No
+130100. Echocardiographic examination,EMPTY/Unknown,29,5,No
+130101. Fetal echocardiographic examination,EMPTY/Unknown,29,5,No
+130102. Transthoracic echocardiographic examination,EMPTY/Unknown,29,5,No
+130103. Transoesophageal echocardiographic examination,EMPTY/Unknown,29,5,No
+130104. Epicardial echocardiographic examination,EMPTY/Unknown,29,5,No
+130124. Transluminal intracardiac echocardiographic examination,EMPTY/Unknown,29,5,No
+130125. Transabdominal fetal echocardiographic examination,EMPTY/Unknown,29,5,No
+130126. Transvaginal fetal echocardiographic examination,EMPTY/Unknown,29,5,No
+130127. Intravascular ultrasound (IVUS) examination,EMPTY/Unknown,29,5,No
+130189. Satisfactory fetal cardiac images,EMPTY/Unknown,29,5,No
+130190. Inadequate fetal cardiac images,EMPTY/Unknown,29,5,No
+"140446. Migraine,",EMPTY/Unknown,29,5,No
+"140447. Diver's decompression sickness,",EMPTY/Unknown,29,5,No
+"140470. Smoking: tobacco use,",EMPTY/Unknown,29,5,No
+140500. Maternal teratogen or disease potentially associated with congenital heart disease,EMPTY/Unknown,29,5,No
+140540. Maternally derived fetal disease or syndrome associated with heart disease,EMPTY/Unknown,29,5,No
+140541. Fetal infection,EMPTY/Unknown,29,5,No
+141000. Fetal cardiac abnormality not detected,EMPTY/Unknown,29,5,No
+141001. Fetal abnormality,EMPTY/Unknown,29,5,No
+141002. Fetal hydrops,EMPTY/Unknown,29,5,No
+141006. Fetal arrhythmia,EMPTY/Unknown,29,5,No
+141007. Fetal unexplained right heart dominance,EMPTY/Unknown,29,5,No
+141008. Fetal echogenic focus ('golf ball'),EMPTY/Unknown,29,5,No
+141011. Twin-to-twin transfusion syndrome,EMPTY/Unknown,29,5,No
+141012. Increased nuchal thickness,EMPTY/Unknown,29,5,No
+141018. In utero death,EMPTY/Unknown,29,5,No
+141025. Fetal echocardiographic abnormality,EMPTY/Unknown,29,5,No
+141026. Fetal venous Doppler flow(s) abnormal for gestational age,EMPTY/Unknown,29,5,No
+141027. Fetal progression of right ventricular outflow tract obstruction,EMPTY/Unknown,29,5,No
+141028. Fetal progression of left ventricular outflow tract obstruction,EMPTY/Unknown,29,5,No
+141034. Intrauterine growth restriction (retardation),EMPTY/Unknown,29,5,No
+141035. Spontaneous abortion-miscarriage (< 24 wks),EMPTY/Unknown,29,5,No
+141036. Stillbirth (> 24 wks),EMPTY/Unknown,29,5,No
+141037. Termination of pregnancy procedure,EMPTY/Unknown,29,5,No
+141038. Terminated pregnancy (with respect to fetus),EMPTY/Unknown,29,5,No
+141045. Fetal unexplained left heart dominance,EMPTY/Unknown,29,5,No
+141052. Fetal abnormal 4 chamber view,EMPTY/Unknown,29,5,No
+141053. Fetal abnormal great arterial view,EMPTY/Unknown,29,5,No
+141060. Fetal structural heart abnormality,EMPTY/Unknown,29,5,No
+141073. Selective feticide in multiple pregnancy,EMPTY/Unknown,29,5,No
+141090. Fetal failure of right ventricular growth,EMPTY/Unknown,29,5,No
+141091. Fetal failure of left ventricular growth,EMPTY/Unknown,29,5,No
+141095. Fetal cardiomegaly,EMPTY/Unknown,29,5,No
+141098. Fetal heart failure,EMPTY/Unknown,29,5,No
+141099. Fetal heart failure due to extracardiac disease,EMPTY/Unknown,29,5,No
+141140. Fetal arterial Doppler flow(s) abnormal for gestational age,EMPTY/Unknown,29,5,No
+141141. Fetal aortic arch flow abnormal for gestational age,EMPTY/Unknown,29,5,No
+141142. Fetal reversal of aortic arch blood flow for gestational age,EMPTY/Unknown,29,5,No
+141143. Fetal ductal arch flow abnormal for gestational age,EMPTY/Unknown,29,5,No
+141144. Fetal reversal of ductal arch blood flow for gestational age,EMPTY/Unknown,29,5,No
+141180. Fetal heart muscle abnormality,EMPTY/Unknown,29,5,No
+141181. Fetal cardiomyopathy,EMPTY/Unknown,29,5,No
+141187. Fetal ventricular dysfunction,EMPTY/Unknown,29,5,No
+141220. Fetal fluid retention,EMPTY/Unknown,29,5,No
+141352. Abnormal fetal Cardiovascular Profile Score (Huhta),EMPTY/Unknown,29,5,No
+150001. Cardiac arrest during procedure,EMPTY/Unknown,29,5,No
+150002. Cardiac arrest following procedure,EMPTY/Unknown,29,5,No
+150003. Postprocedural low cardiac output,EMPTY/Unknown,29,5,No
+150005. Myocardial infarction following procedure,EMPTY/Unknown,29,5,No
+150009. Postprocedural requirement for mechanical circulatory support,EMPTY/Unknown,29,5,No
+150030. Postprocedural hypovolaemia,EMPTY/Unknown,29,5,No
+150200. Postprocedural haemorrhage,EMPTY/Unknown,29,5,No
+150203. Postprocedural coagulopathy,EMPTY/Unknown,29,5,No
+150207. Postprocedural haemolysis,EMPTY/Unknown,29,5,No
+150265. Postprocedural haemorrhage requiring reoperation,EMPTY/Unknown,29,5,No
+150300. Median sternotomy complication,EMPTY/Unknown,29,5,No
+150303. Infection of median sternotomy wound,EMPTY/Unknown,29,5,No
+150308. Dehiscence of median sternotomy wound,EMPTY/Unknown,29,5,No
+150315. Keloid-hypertrophic scar of median sternotomy wound,EMPTY/Unknown,29,5,No
+150330. Lateral thoracotomy complication,EMPTY/Unknown,29,5,No
+150332. Infection of lateral thoracotomy wound,EMPTY/Unknown,29,5,No
+150350. Wound infection,EMPTY/Unknown,29,5,No
+150351. Wound dehiscence,EMPTY/Unknown,29,5,No
+150352. Mediastinitis,EMPTY/Unknown,29,5,No
+150415. Postprocedural femoral vein complication,EMPTY/Unknown,29,5,No
+150434. Postprocedural major vein complication,EMPTY/Unknown,29,5,No
+152420. Postprocedural femoral arterial complication,EMPTY/Unknown,29,5,No
+154139. Postprocedural coronary artery bypass graft (CABG) complication,EMPTY/Unknown,29,5,No
+154306. Unplanned reoperation during current admission,EMPTY/Unknown,29,5,No
+155000. Cardiac catheterisation complication,EMPTY/Unknown,29,5,No
+155001. Intramyocardial injection of contrast medium,EMPTY/Unknown,29,5,No
+155003. Perforation of cardiac chamber-vessel during cardiac catheterisation,EMPTY/Unknown,29,5,No
+155011. Lost pulse after cardiac catheterisation,EMPTY/Unknown,29,5,No
+155030. Equipment problem during cardiac catheterisation,EMPTY/Unknown,29,5,No
+155037. Embolisation of catheter introduced device,EMPTY/Unknown,29,5,No
+155040. Failed attempt to implant coil-device during transcatheter intervention,EMPTY/Unknown,29,5,No
+155060. Complication involving device implantation,EMPTY/Unknown,29,5,No
+155070. Complication involving stent,EMPTY/Unknown,29,5,No
+155080. Fetal intervention complication,EMPTY/Unknown,29,5,No
+155081. Preterm delivery immediately following fetal intervention,EMPTY/Unknown,29,5,No
+155083. Failed fetal procedure,EMPTY/Unknown,29,5,No
+155086. Fetal death following fetal cardiac procedure,EMPTY/Unknown,29,5,No
+155100. Complication following arrhythmia related procedure,EMPTY/Unknown,29,5,No
+155702. Extracorporeal Membrane Oxygenation (ECMO) circuit complication,EMPTY/Unknown,29,5,No
+155703. Ventricular assist device complication,EMPTY/Unknown,29,5,No
+155721. Intraaortic balloon pump (IABP) complication,EMPTY/Unknown,29,5,No
+155801. Complication related to echocardiographic procedure,EMPTY/Unknown,29,5,No
+155900. Medication related complication or error,EMPTY/Unknown,29,5,No
+156002. Arrhythmia following procedure,EMPTY/Unknown,29,5,No
+156738. Wound related complication,EMPTY/Unknown,29,5,No
+157700. Cardiopulmonary bypass complication,EMPTY/Unknown,29,5,No
+158000. General systemic complication of cardiac procedure,EMPTY/Unknown,29,5,No
+158001. Postprocedural metabolic derangement,EMPTY/Unknown,29,5,No
+158005. Postprocedural septicaemia,EMPTY/Unknown,29,5,No
+158006. Capillary leak syndrome,EMPTY/Unknown,29,5,No
+158015. Postprocedural acidosis,EMPTY/Unknown,29,5,No
+158016. Multiple organ dysfunction syndrome (MODS),EMPTY/Unknown,29,5,No
+158019. Systemic inflammatory response syndrome (SIRS),EMPTY/Unknown,29,5,No
+158020. Respiratory complication after cardiac procedure,EMPTY/Unknown,29,5,No
+158021. Postprocedural pulmonary infection,EMPTY/Unknown,29,5,No
+158022. Postprocedural pulmonary hypertensive crises,EMPTY/Unknown,29,5,No
+158029. Postprocedural Acute Respiratory Distress Syndrome (ARDS),EMPTY/Unknown,29,5,No
+158031. Postprocedural lung collapse (atelectasis),EMPTY/Unknown,29,5,No
+158032. Postprocedural requirement for mechanical respiratory support > 7 days,EMPTY/Unknown,29,5,No
+158033. Postprocedural requirement for reintubation,EMPTY/Unknown,29,5,No
+158050. Postprocedural pleural effusion,EMPTY/Unknown,29,5,No
+158051. Postprocedural right pleural effusion,EMPTY/Unknown,29,5,No
+158052. Postprocedural left pleural effusion,EMPTY/Unknown,29,5,No
+158055. Postprocedural chylothorax,EMPTY/Unknown,29,5,No
+158056. Postprocedural haemothorax,EMPTY/Unknown,29,5,No
+158061. Pleural effusion requiring drainage,EMPTY/Unknown,29,5,No
+158062. Postprocedural pneumothorax,EMPTY/Unknown,29,5,No
+158070. Postprocedural complication involving tracheo-bronchial tree,EMPTY/Unknown,29,5,No
+158086. Postprocedural requirement for tracheostomy,EMPTY/Unknown,29,5,No
+158087. Postprocedural bronchial compression,EMPTY/Unknown,29,5,No
+158090. Intraprocedural phrenic nerve injury (paralysed diaphragm),EMPTY/Unknown,29,5,No
+158093. Intraprocedural recurrent laryngeal nerve injury (palsy),EMPTY/Unknown,29,5,No
+158094. Postprocedural Horner?s syndrome,EMPTY/Unknown,29,5,No
+158200. Postprocedural renal failure,EMPTY/Unknown,29,5,No
+158206. Renal failure requiring temporary dialysis,EMPTY/Unknown,29,5,No
+158207. Renal failure requiring permanent dialysis,EMPTY/Unknown,29,5,No
+158221. Postprocedural gastrointestinal bleeding,EMPTY/Unknown,29,5,No
+158223. Postprocedural inability to sustain gastric feeding,EMPTY/Unknown,29,5,No
+158228. Postprocedural intestinal obstruction,EMPTY/Unknown,29,5,No
+158229. Postprocedural peritonitis,EMPTY/Unknown,29,5,No
+158230. Postprocedural necrotising enterocolitis,EMPTY/Unknown,29,5,No
+158232. Pseudomembranous colitis,EMPTY/Unknown,29,5,No
+158233. Postprocedural protein losing enteropathy,EMPTY/Unknown,29,5,No
+158238. Postprocedural feeding difficulties,EMPTY/Unknown,29,5,No
+158243. Postprocedural hepatic impairment,EMPTY/Unknown,29,5,No
+158247. Postprocedural acute pancreatitis,EMPTY/Unknown,29,5,No
+158250. Neurological complication after cardiac procedure,EMPTY/Unknown,29,5,No
+158251. Postprocedural generalised seizures,EMPTY/Unknown,29,5,No
+158253. Postprocedural temporary neurological impairment,EMPTY/Unknown,29,5,No
+158257. Postprocedural permanent neurological impairment,EMPTY/Unknown,29,5,No
+158264. Postprocedural brain death,EMPTY/Unknown,29,5,No
+158266. Postprocedural cerebral abscess,EMPTY/Unknown,29,5,No
+158267. Postprocedural new onset seizures,EMPTY/Unknown,29,5,No
+158268. Postprocedural neurological impairment persisting at discharge,EMPTY/Unknown,29,5,No
+158281. Postprocedural cerebral abnormality on imaging,EMPTY/Unknown,29,5,No
+158800. Vascular line (access) related complication,EMPTY/Unknown,29,5,No
+159001. Postprocedural complication,EMPTY/Unknown,29,5,No
+159003. No postprocedural complications,EMPTY/Unknown,29,5,No
+159014. Procedure related complication,EMPTY/Unknown,29,5,No
+159020. Complication during period of anaesthetic care,EMPTY/Unknown,29,5,No
+159500. Complication after heart or lung transplant,EMPTY/Unknown,29,5,No
+159564. Post-lung transplant obliterative bronchiolitis,EMPTY/Unknown,29,5,No
+159566. Lung disease in lung transplant rejection,EMPTY/Unknown,29,5,No
+160101. Pneumothorax,EMPTY/Unknown,29,5,No
+160104. Pleural effusion,EMPTY/Unknown,29,5,No
+160107. Chylothorax,EMPTY/Unknown,29,5,No
+160121. Pleural disease: benign,EMPTY/Unknown,29,5,No
+160122. Pleural disease: malignant,EMPTY/Unknown,29,5,No
+160301. Lung disease: benign,EMPTY/Unknown,29,5,No
+160302. Lower respiratory tract infection,EMPTY/Unknown,29,5,No
+160321. Lung disease: malignant,EMPTY/Unknown,29,5,No
+160511. Mediastinal disease: benign,EMPTY/Unknown,29,5,No
+160512. Mediastinal disease: malignant,EMPTY/Unknown,29,5,No
+161509. Diaphragm disease,EMPTY/Unknown,29,5,No
+162001. Oesophageal disease: benign,EMPTY/Unknown,29,5,No
+162002. Oesophageal disease: malignant,EMPTY/Unknown,29,5,No
+165020. Complication following respiratory tract stent implantation,EMPTY/Unknown,29,5,No
+170001. Medical therapy for cardiovascular disease,EMPTY/Unknown,29,5,No
+171002. Medical therapy for endocarditis,EMPTY/Unknown,29,5,No
+Q19051. - status: post-procedure,EMPTY/Unknown,29,5,No
+Q19067. - diagnosis uncertain,EMPTY/Unknown,29,5,No
+010161. Aneurysm,Acquired,23,6,No
+"040006. Systemic venovenous collateral(s),",Acquired,23,6,No
+070001. Ventricular dyssynchrony,Acquired,23,6,No
+070110. Arrhythmogenic right ventricular cardiomyopathy,Acquired,23,6,No
+070111. Right ventricular dysfunction,Acquired,23,6,No
+070610. Left ventricular dysfunction,Acquired,23,6,No
+070850. Ventricular myocardial noncompaction cardiomyopathy,Acquired,23,6,No
+090515. Pulmonary valvar atresia: acquired,Acquired,23,6,No
+090591. Pulmonary regurgitation,Acquired,23,6,No
+090700. Pulmonary trunk (MPA) abnormality,Acquired,23,6,No
+091000. Pulmonary arterial abnormality,Acquired,23,6,No
+091044. Pulmonary arterial aneurysm,Acquired,23,6,No
+091605. Ascending aorta dilation associated with Marfan syndrome,Acquired,23,6,No
+091609. Ascending aorta dilation,Acquired,23,6,No
+091613. Aortic root dilation,Acquired,23,6,No
+092816. Descending aorta dilation,Acquired,23,6,No
+094601. Coronary arterial aneurysm(s),Acquired,23,6,No
+100301. Heart tumour,Acquired,23,6,No
+100501. Acute rheumatic fever,Acquired,23,6,No
+100521. Rheumatic fever with cardiac involvement,Acquired,23,6,No
+100530. Rheumatic valvar disease,Acquired,23,6,No
+100531. Rheumatic mitral valvar disease,Acquired,23,6,No
+100533. Rheumatic aortic valvar disease,Acquired,23,6,No
+100600. Endocarditis,Acquired,23,6,No
+100601. Infective endocarditis,Acquired,23,6,No
+100620. Heart abscess,Acquired,23,6,No
+100641. Bacterial endocarditis,Acquired,23,6,No
+100664. Postprocedural endocarditis,Acquired,23,6,No
+100701. Infectious myocarditis,Acquired,23,6,No
+100703. Viral myocarditis,Acquired,23,6,No
+100705. Drug induced heart muscle disease,Acquired,23,6,No
+100708. Trypanosomal myocarditis (Chagas' disease),Acquired,23,6,No
+100740. Myocardial failure in end stage congenital heart disease,Acquired,23,6,No
+100742. Heart muscle disease in cardiac rejection,Acquired,23,6,No
+100761. Nutritional heart muscle disease,Acquired,23,6,No
+100771. Heart muscle disease in infant of diabetic mother,Acquired,23,6,No
+100781. Heart muscle disease in collagen vascular/ connective tissue disorder,Acquired,23,6,No
+100800. Pericarditis,Acquired,23,6,No
+100801. Infectious pericarditis,Acquired,23,6,No
+100803. Viral pericarditis,Acquired,23,6,No
+100804. Bacterial pericarditis,Acquired,23,6,No
+100809. Constrictive pericarditis,Acquired,23,6,No
+100813. Cardiac tamponade,Acquired,23,6,No
+100815. Chylopericardium,Acquired,23,6,No
+100829. Pericardial abnormality: acquired,Acquired,23,6,No
+100831. Pericardial effusion,Acquired,23,6,No
+100901. Kawasaki disease,Acquired,23,6,No
+100902. Kawasaki disease with aneurysm(s) or dilated coronary vessels,Acquired,23,6,No
+100908. Kawasaki disease without cardiac involvement,Acquired,23,6,No
+100910. Acquired coronary arterial disease,Acquired,23,6,No
+100930. Ischaemic heart disease,Acquired,23,6,No
+101001. Cardiomyopathy,Acquired,23,6,No
+101011. Idiopathic restrictive cardiomyopathy,Acquired,23,6,No
+101012. Endocardial fibroelastosis,Acquired,23,6,No
+101013. Infiltrative cardiomyopathy,Acquired,23,6,No
+101020. Hypertrophic cardiomyopathy,Acquired,23,6,No
+101025. Dilated cardiomyopathy,Acquired,23,6,No
+101239. Failure to thrive,Acquired,23,6,No
+101301. Pulmonary arterial hypertension,Acquired,23,6,No
+101302. Primary pulmonary hypertension,Acquired,23,6,No
+101306. Pulmonary vascular disease,Acquired,23,6,No
+101308. Irreversible pulmonary vascular disease due to congenital heart disease (Eisenmenger Syndrome),Acquired,23,6,No
+101320. Secondary pulmonary hypertension,Acquired,23,6,No
+101321. Pulmonary hypertension due to left to right shunt,Acquired,23,6,No
+101350. Pulmonary arterial disease: acquired,Acquired,23,6,No
+101351. Pulmonary embolism,Acquired,23,6,No
+101368. Right pulmonary arterial stenosis: acquired,Acquired,23,6,No
+101369. Left pulmonary arterial stenosis: acquired,Acquired,23,6,No
+101401. Systemic hypertension,Acquired,23,6,No
+101404. Systemic hypertension due to aortic arch obstruction,Acquired,23,6,No
+101440. Ascending aorta dilation: acquired,Acquired,23,6,No
+101442. Ascending aorta aneurysm,Acquired,23,6,No
+101443. Descending aorta aneurysm,Acquired,23,6,No
+101450. Aortic aneurysm,Acquired,23,6,No
+101451. Aortic dissection,Acquired,23,6,No
+101452. Ascending aorta dissection & propagation beyond arch (DeBakey type I),Acquired,23,6,No
+101453. Ascending aorta dissection not beyond arch (DeBakey type II/ Stanford type A),Acquired,23,6,No
+101470. Abnormality of aorta: acquired,Acquired,23,6,No
+101472. Recoarctation of aorta,Acquired,23,6,No
+101477. Supravalvar aortic stenosis: acquired,Acquired,23,6,No
+101480. Arterial duct (ductus arteriosus) abnormality: acquired,Acquired,23,6,No
+"101495. Ascending aortopathy associated with conotruncal malformations,",Acquired,23,6,No
+101510. Transient myocardial ischaemia,Acquired,23,6,No
+101600. Right ventricular abnormality: acquired,Acquired,23,6,No
+101608. Right ventricular-congestive heart failure,Acquired,23,6,No
+101616. Right ventricular outflow tract obstruction: acquired,Acquired,23,6,No
+101640. Left ventricular abnormality: acquired,Acquired,23,6,No
+101646. Recurrent left ventricular outflow tract obstruction,Acquired,23,6,No
+101647. Left ventricular failure,Acquired,23,6,No
+101660. Abnormality associated with ventricular septum: acquired,Acquired,23,6,No
+101662. Post-myocardial infarct VSD,Acquired,23,6,No
+101681. Narrowing of constructed intraventricular tunnel: acquired,Acquired,23,6,No
+101682. Subaortic stenosis in complex heart disease: acquired,Acquired,23,6,No
+101683. Subpulmonary stenosis in complex heart disease: acquired,Acquired,23,6,No
+101686. Subaortic stenosis: acquired,Acquired,23,6,No
+101688. Subpulmonary stenosis: acquired,Acquired,23,6,No
+101723. Shock,Acquired,23,6,No
+101740. Atrial septum abnormality: acquired,Acquired,23,6,No
+101800. Myocardial infarction,Acquired,23,6,No
+101801. Acute myocardial infarction,Acquired,23,6,No
+102034. Preprocedural myocardial dysfunction,Acquired,23,6,No
+102400. Pulmonary venous abnormality: acquired,Acquired,23,6,No
+103000. Systemic vein abnormality: acquired,Acquired,23,6,No
+103009. Systemic vein obstruction,Acquired,23,6,No
+103101. Superior caval vein (SVC) abnormality: acquired,Acquired,23,6,No
+103121. Inferior caval vein (IVC) abnormality - acquired,Acquired,23,6,No
+103200. Heart valvar abnormality: acquired,Acquired,23,6,No
+103201. Tricuspid valvar abnormality: acquired,Acquired,23,6,No
+103300. Prosthetic valve failure,Acquired,23,6,No
+103301. Mitral valvar abnormality: acquired,Acquired,23,6,No
+103302. Mitral stenosis: acquired,Acquired,23,6,No
+103303. Mitral valvar stenosis: recurrent,Acquired,23,6,No
+103304. Mitral regurgitation: acquired,Acquired,23,6,No
+103306. Mitral regurgitation: recurrent,Acquired,23,6,No
+103444. Left AV valvar regurgitation: acquired,Acquired,23,6,No
+103460. AV valvar abnormality in AVSD: acquired,Acquired,23,6,No
+103501. Pulmonary valvar abnormality: acquired,Acquired,23,6,No
+103502. Pulmonary valvar stenosis: acquired,Acquired,23,6,No
+103503. Pulmonary valvar stenosis: recurrent,Acquired,23,6,No
+103504. Pulmonary regurgitation: acquired,Acquired,23,6,No
+103601. Aortic valvar abnormality: acquired,Acquired,23,6,No
+103602. Aortic valvar stenosis: acquired,Acquired,23,6,No
+103603. Aortic valvar stenosis: recurrent,Acquired,23,6,No
+103604. Aortic regurgitation: acquired,Acquired,23,6,No
+103606. Aortic regurgitation: recurrent,Acquired,23,6,No
+103701. Truncal valvar abnormality: acquired,Acquired,23,6,No
+105101. Common arterial trunk (truncus) abnormality: acquired,Acquired,23,6,No
+109001. Traumatic injury of heart,Acquired,23,6,No
+111100. Pacemaker dysfunction-complication necessitating replacement,Acquired,23,6,No
+"111101. Pacemaker dysfunction-complication,",Acquired,23,6,No
+111103. Pacemaker battery exhaustion: end of life (EOL),Acquired,23,6,No
+111117. Pacemaker-ICD loss of capture,Acquired,23,6,No
+111121. Pacemaker (AV dyssychrony) syndrome,Acquired,23,6,No
+111140. Pacemaker lead dysfunction-complication,Acquired,23,6,No
+111159. Pacemaker generator site local complication,Acquired,23,6,No
+111160. Implantable cardioverter & defibrillator (ICD) dysfunction-complication,Acquired,23,6,No
+111170. Insertable ECG loop recorder complication,Acquired,23,6,No
+"111180. Insertable electrocardiographic (ECG) loop recorder complication,",Acquired,23,6,No
+150401. Postprocedural superior caval vein (SVC) complication,Acquired,23,6,No
+150405. Postprocedural inferior caval vein (IVC) complication,Acquired,23,6,No
+150501. Postprocedural pulmonary vein complication,Acquired,23,6,No
+150503. Pulmonary vein obstruction,Acquired,23,6,No
+151010. Right atrial abnormality: acquired,Acquired,23,6,No
+151011. Postprocedural right atrial complication,Acquired,23,6,No
+151013. Obstruction of right atrial conduit (TCPC),Acquired,23,6,No
+151020. Left atrial abnormality: acquired,Acquired,23,6,No
+151021. Postprocedural left atrial complication,Acquired,23,6,No
+151061. Postprocedural atrial septum complication,Acquired,23,6,No
+151063. Residual interatrial communication ('ASD'),Acquired,23,6,No
+151066. Ineffective balloon atrial septostomy,Acquired,23,6,No
+151100. Postprocedural tricuspid valvar complication,Acquired,23,6,No
+151103. Residual tricuspid regurgitation,Acquired,23,6,No
+151108. Tricuspid valvar prosthesis complication,Acquired,23,6,No
+151200. Postprocedural mitral valvar complication,Acquired,23,6,No
+151201. Residual mitral valvar stenosis,Acquired,23,6,No
+151203. Residual mitral regurgitation,Acquired,23,6,No
+151209. Mitral valvar prosthesis complication,Acquired,23,6,No
+151302. Residual common AV valvar regurgitation,Acquired,23,6,No
+151400. Postprocedural right AV valvar complication,Acquired,23,6,No
+151500. Postprocedural left AV valvar complication,Acquired,23,6,No
+151600. Postprocedural AV septal defect complication,Acquired,23,6,No
+151602. Residual ventricular component of AV septal defect,Acquired,23,6,No
+152001. Postprocedural right ventricular complication,Acquired,23,6,No
+152021. Postprocedural right ventricular outflow tract complication,Acquired,23,6,No
+152023. Residual right ventricular outflow tract obstruction,Acquired,23,6,No
+152025. Aneurysm of right ventricular outflow tract patch,Acquired,23,6,No
+152075. Residual subaortic stenosis in complex heart disease,Acquired,23,6,No
+152076. Residual subpulmonary stenosis in complex heart disease,Acquired,23,6,No
+152101. Postprocedural left ventricular complication,Acquired,23,6,No
+152121. Postprocedural left ventricular outflow tract complication,Acquired,23,6,No
+152122. Residual left ventricular outflow tract obstruction,Acquired,23,6,No
+152202. Residual VSD,Acquired,23,6,No
+152400. Postprocedural systemic arterial complication,Acquired,23,6,No
+152503. Residual truncal regurgitation,Acquired,23,6,No
+152531. Postprocedural common arterial trunk complication,Acquired,23,6,No
+153000. Postprocedural pulmonary valvar complication,Acquired,23,6,No
+153001. Residual pulmonary valvar stenosis,Acquired,23,6,No
+153003. Residual pulmonary regurgitation,Acquired,23,6,No
+153008. Pulmonary valvar prosthesis complication,Acquired,23,6,No
+153201. Postprocedural pulmonary trunk complication,Acquired,23,6,No
+153221. Postprocedural right pulmonary artery complication,Acquired,23,6,No
+153223. Residual right pulmonary artery stenosis,Acquired,23,6,No
+153241. Postprocedural left pulmonary artery complication,Acquired,23,6,No
+153243. Residual left pulmonary artery stenosis,Acquired,23,6,No
+153500. Postprocedural aortic valvar complication,Acquired,23,6,No
+153501. Residual aortic valvar stenosis,Acquired,23,6,No
+153503. Residual aortic regurgitation,Acquired,23,6,No
+153508. Aortic valvar prosthesis complication,Acquired,23,6,No
+153601. Postprocedural ascending aorta complication,Acquired,23,6,No
+153701. Postprocedural descending aorta complication,Acquired,23,6,No
+153705. Residual aortic coarctation,Acquired,23,6,No
+153707. Postprocedural aneurysm of aorta at coarctation site,Acquired,23,6,No
+153773. Postprocedural aortic complication,Acquired,23,6,No
+153901. Postprocedural arterial duct complication,Acquired,23,6,No
+153902. Residual arterial duct (PDA) patency,Acquired,23,6,No
+153950. Postprocedural systemic-to-pulmonary collateral artery complication,Acquired,23,6,No
+154100. Postprocedural coronary arterial complication,Acquired,23,6,No
+154113. Cardiac transplant associated coronary allograft vasculopathy,Acquired,23,6,No
+155500. Cardiac conduit complication,Acquired,23,6,No
+155516. Cardiac conduit failure,Acquired,23,6,No
+"155524. Pulmonary autograft failure,",Acquired,23,6,No
+155600. Systemic-to-pulmonary arterial shunt complication,Acquired,23,6,No
+155601. Systemic-to-pulmonary arterial shunt partial obstruction,Acquired,23,6,No
+155602. Systemic-to-pulmonary arterial shunt complete obstruction,Acquired,23,6,No
+"155621. Systemic-to-pulmonary arterial shunt failure,",Acquired,23,6,No
+158300. Pericardial effusion requiring drainage,Acquired,23,6,No
+159060. Failed' Fontan type circulation,Acquired,23,6,Yes
+Q19180. - status: post heart transplant,Acquired,23,6,No
+Q19181. - status: post heart & lung(s) transplant,Acquired,23,6,No
+050601. Common atrium (virtual absence of atrial septum),Atrioventricular septal defect,10,7,No
+060501. AVSD AV valvar abnormality,Atrioventricular septal defect,10,7,No
+060506. AVSD AV valvar regurgitation,Atrioventricular septal defect,10,7,No
+060600. Atrioventricular septal defect,Atrioventricular septal defect,10,7,No
+060601. AVSD: isolated atrial component (primum ASD)(partial),Atrioventricular septal defect,10,7,No
+060608. AVSD: isolated ventricular component,Atrioventricular septal defect,10,7,No
+060609. AVSD: atrial & ventricular components with common AV orifice (complete),Atrioventricular septal defect,10,7,No
+060610. AVSD: atrial & (restrictive) ventricular components + separate AV valves ('intermediate'),Atrioventricular septal defect,10,7,No
+010101. Tetralogy of Fallot,Fallot / DORV-Fallot type,11,7,No
+010117. Double outlet right ventricle: Fallot type (subaortic or doubly committed VSD & pulmonary stenosis),Fallot / DORV-Fallot type,11,7,No
+091501. Aortic valvar stenosis: congenital,Aortic valve stenosis (isolated),12,8,No
+091512. Eccentric opening of tricuspid aortic valve,Aortic valve stenosis (isolated),12,8,No
+091513. Aortic valvar stenosis,Aortic valve stenosis (isolated),12,8,No
+091592. Aortic stenosis,Aortic valve stenosis (isolated),12,8,No
+050202. Supravalvar mitral ring,"Mitral valve abnormality (including supravalvar, subvalvar)",14,8,No
+060200. Mitral valvar abnormality,"Mitral valve abnormality (including supravalvar, subvalvar)",14,8,No
+060207. Mitral valvar stenosis: congenital,"Mitral valve abnormality (including supravalvar, subvalvar)",14,8,No
+060212. Mitral subvalvar apparatus abnormality,"Mitral valve abnormality (including supravalvar, subvalvar)",14,8,No
+060213. Mitral subvalvar stenosis,"Mitral valve abnormality (including supravalvar, subvalvar)",14,8,No
+060225. Mitral regurgitation: congenital,"Mitral valve abnormality (including supravalvar, subvalvar)",14,8,No
+060235. Mitral valvar prolapse,"Mitral valve abnormality (including supravalvar, subvalvar)",14,8,No
+060236. True cleft of mitral leaflet (without AVSD),"Mitral valve abnormality (including supravalvar, subvalvar)",14,8,No
+060256. Parachute malformation of mitral valve,"Mitral valve abnormality (including supravalvar, subvalvar)",14,8,No
+060291. Mitral regurgitation,"Mitral valve abnormality (including supravalvar, subvalvar)",14,8,No
+060292. Mitral stenosis,"Mitral valve abnormality (including supravalvar, subvalvar)",14,8,No
+060293. Mitral valve stenosis,"Mitral valve abnormality (including supravalvar, subvalvar)",14,8,No
+010139. Cardiac abnormality,Miscelleneous congenital terms,25,8,No
+010160. Vascular abnormality,Miscelleneous congenital terms,25,8,No
+010306. Abnormal atrial arrangement,Miscelleneous congenital terms,25,8,No
+010309. AV and-or VA connections abnormal,Miscelleneous congenital terms,25,8,Yes
+010510. Concordant VA connections with parallel great arteries (anatomically corrected malposition),Miscelleneous congenital terms,25,8,No
+020102. Dextrocardia: heart predominantly in right hemithorax,Miscelleneous congenital terms,25,8,No
+"020104. Midline heart (mesocardia),",Miscelleneous congenital terms,25,8,No
+020109. Position-orientation of heart abnormal,Miscelleneous congenital terms,25,8,No
+020704. Abnormal position or relationship of great vessels,Miscelleneous congenital terms,25,8,No
+030103. Total mirror imagery (situs inversus),Miscelleneous congenital terms,25,8,No
+030104. Right isomerism ('asplenia'),Miscelleneous congenital terms,25,8,No
+030105. Left isomerism ('polysplenia'),Miscelleneous congenital terms,25,8,No
+040100. Superior caval vein (SVC) abnormality,Miscelleneous congenital terms,25,8,No
+040101. Left superior caval vein (SVC) persisting to coronary sinus,Miscelleneous congenital terms,25,8,No
+040200. Hepatic vein abnormality,Miscelleneous congenital terms,25,8,No
+040300. Inferior caval vein (IVC) abnormality,Miscelleneous congenital terms,25,8,No
+040310. Inferior caval vein (IVC) interruption (absent suprarenal segment) with azygos continuation,Miscelleneous congenital terms,25,8,No
+040400. Coronary sinus abnormality,Miscelleneous congenital terms,25,8,No
+040500. Systemic vein abnormality: congenital,Miscelleneous congenital terms,25,8,No
+040800. Pulmonary vein abnormality,Miscelleneous congenital terms,25,8,No
+050100. Right atrial abnormality,Miscelleneous congenital terms,25,8,No
+050200. Left atrial abnormality,Miscelleneous congenital terms,25,8,No
+050300. Atrial septum abnormality,Miscelleneous congenital terms,25,8,No
+050301. Patent foramen ovale (PFO),Miscelleneous congenital terms,25,8,No
+060109. Straddling tricuspid valve,Miscelleneous congenital terms,25,8,No
+060209. Straddling mitral valve,Miscelleneous congenital terms,25,8,No
+060598. Deficient mural-lateral leaflet of left ventricular component of common atrioventricular valve (left atrioventricular vale),Miscelleneous congenital terms,25,8,No
+070100. Right ventricular abnormality,Miscelleneous congenital terms,25,8,No
+070114. Right ventricular aneurysm,Miscelleneous congenital terms,25,8,No
+070200. Right ventricular hypoplasia,Miscelleneous congenital terms,25,8,No
+070301. Double chambered right ventricle,Miscelleneous congenital terms,25,8,No
+070501. Right ventricular outflow tract obstruction,Miscelleneous congenital terms,25,8,No
+070600. Left ventricular abnormality,Miscelleneous congenital terms,25,8,No
+070613. Left ventricular aneurysm,Miscelleneous congenital terms,25,8,No
+070700. Left ventricular hypoplasia,Miscelleneous congenital terms,25,8,No
+070901. Left ventricular outflow tract obstruction,Miscelleneous congenital terms,25,8,No
+070931. Aortic abnormality,Miscelleneous congenital terms,25,8,No
+072000. Ventricular septal abnormality,Miscelleneous congenital terms,25,8,No
+090522. Pulmonary regurgitation: congenital,Miscelleneous congenital terms,25,8,No
+090711. Pulmonary trunk hypoplasia,Miscelleneous congenital terms,25,8,No
+090713. Supravalvar pulmonary trunk stenosis,Miscelleneous congenital terms,25,8,No
+090906. Pulmonary arterial sling,Miscelleneous congenital terms,25,8,No
+090908. Pulmonary artery from ascending aorta (hemitruncus),Miscelleneous congenital terms,25,8,No
+091001. Pulmonary arterial stenosis,Miscelleneous congenital terms,25,8,No
+091006. Peripheral pulmonary arterial stenoses: at-beyond hilar bifurcation,Miscelleneous congenital terms,25,8,No
+091007. Central pulmonary arterial stenosis: proximal to hilar bifurcation,Miscelleneous congenital terms,25,8,No
+091010. Discontinuous (non-confluent) pulmonary arteries,Miscelleneous congenital terms,25,8,No
+091011. Pulmonary arterial hypoplasia,Miscelleneous congenital terms,25,8,No
+091025. Right pulmonary arterial stenosis,Miscelleneous congenital terms,25,8,No
+091026. Left pulmonary arterial stenosis,Miscelleneous congenital terms,25,8,No
+091500. Aortic valvar abnormality,Miscelleneous congenital terms,25,8,No
+091522. Bicuspid aortic valve,Miscelleneous congenital terms,25,8,No
+091602. Ascending aorta hypoplasia,Miscelleneous congenital terms,25,8,No
+091610. Ascending aorta abnormality,Miscelleneous congenital terms,25,8,No
+091701. Aorto-ventricular tunnel,Miscelleneous congenital terms,25,8,No
+091702. Aorto: left ventricular tunnel,Miscelleneous congenital terms,25,8,No
+091801. Aortic sinus of Valsalva aneurysm,Miscelleneous congenital terms,25,8,No
+091901. Arteriovenous fistula (malformation),Miscelleneous congenital terms,25,8,No
+091905. Pulmonary arteriovenous fistula (malformation),Miscelleneous congenital terms,25,8,No
+092020. Distal systemic arterial abnormality,Miscelleneous congenital terms,25,8,No
+092800. Aortic arch abnormality,Miscelleneous congenital terms,25,8,No
+092809. Double aortic arch,Miscelleneous congenital terms,25,8,No
+092815. Right aortic arch,Miscelleneous congenital terms,25,8,No
+092916. Descending-abdominal aorta hypoplasia (middle aortic syndrome),Miscelleneous congenital terms,25,8,No
+093000. Aortic arch branch abnormality,Miscelleneous congenital terms,25,8,No
+093002. Aberrant origin right subclavian artery,Miscelleneous congenital terms,25,8,No
+093004. Aberrant origin left subclavian artery,Miscelleneous congenital terms,25,8,No
+094200. Coronary artery: anomalous aortic origin or course,Miscelleneous congenital terms,25,8,No
+094220. Anomalous aortic origin of cornoary artery (AAOCA),Miscelleneous congenital terms,25,8,No
+094305. Intramural proximal coronary arterial course,Miscelleneous congenital terms,25,8,No
+094318. Aberrant course of coronary artery: across right ventricular outflow tract,Miscelleneous congenital terms,25,8,No
+094501. Coronary fistula,Miscelleneous congenital terms,25,8,No
+094511. Coronary fistulas from RV ('sinusoidal'),Miscelleneous congenital terms,25,8,No
+094600. Coronary arterial abnormality,Miscelleneous congenital terms,25,8,No
+094606. Right ventricle dependent coronary circulation,Miscelleneous congenital terms,25,8,No
+100100. Pericardial abnormality,Miscelleneous congenital terms,25,8,No
+010102. Transposition of great arteries (concordant AV & discordant VA connections) & IVS,Transposition of great arteries (concordant AV & discordant VA connections) & IVS,6,9,No
+092901. Aortic coarctation,Aortic arch obstruction +/- VSD/ASD,16,10,No
+092911. Aortic arch hypoplasia (tubular),Aortic arch obstruction +/- VSD/ASD,16,10,No
+070530. Subpulmonary stenosis,Pulmonary stenosis,17,10,No
+090500. Pulmonary valvar abnormality,Pulmonary stenosis,17,10,No
+090501. Pulmonary valvar stenosis,Pulmonary stenosis,17,10,No
+090504. Pulmonary valvar stenosis: congenital,Pulmonary stenosis,17,10,No
+090592. Pulmonary stenosis,Pulmonary stenosis,17,10,No
+070900. Subaortic stenosis,Subaortic stenosis (isolated),18,11,No
+070903. Subaortic stenosis due to fibromuscular shelf,Subaortic stenosis (isolated),18,11,No
+091507. Aortic regurgitation: congenital,Aortic regurgitation,19,11,No
+091530. Aortic valvar prolapse,Aortic regurgitation,19,11,No
+091591. Aortic regurgitation,Aortic regurgitation,19,11,No
+071000. VSD,VSD,20,11,No
+071001. Perimembranous VSD,VSD,20,11,No
+071012. VSD + malaligned outlet septum,VSD,20,11,No
+071101. Muscular VSD,VSD,20,11,No
+071200. Subarterial VSD,VSD,20,11,No
+071201. Doubly committed subarterial VSD,VSD,20,11,No
+071402. Communication between left ventricle + right atrium (Gerbode defect),VSD,20,11,No
+071405. Inlet VSD,VSD,20,11,No
+071501. Tiny VSD (Maladie de Roger),VSD,20,11,No
+071504. Multiple VSDs,VSD,20,11,No
+071505. Single VSD,VSD,20,11,No
+040701. Partially anomalous pulmonary venous connection(s),Interatrial communication ('ASD'),21,11,No
+050401. Interatrial communication ('ASD'),Interatrial communication ('ASD'),21,11,No
+050402. Atrial septal defect (ASD) within oval fossa (secundum),Interatrial communication ('ASD'),21,11,No
+050403. Spontaneous closure of atrial septal defect (ASD) within oval fossa (secundum),Interatrial communication ('ASD'),21,11,No
+050500. Sinus venosus defect (ASD),Interatrial communication ('ASD'),21,11,No
+050503. Interatrial communication (ASD) through coronary sinus orifice,Interatrial communication ('ASD'),21,11,No
+110000. Arrhythmia,Arrhythmia,24,11,No
+110011. Sudden Arrhythmic Death Syndrome (SADS),Arrhythmia,24,11,No
+110100. Supraventricular tachycardia,Arrhythmia,24,11,No
+110101. Supraventricular rhythm disturbance,Arrhythmia,24,11,No
+110203. Sinus node dysfunction (including sick sinus),Arrhythmia,24,11,No
+110305. Paroxysmal atrial tachycardia,Arrhythmia,24,11,No
+110307. Atrial flutter,Arrhythmia,24,11,No
+110308. Atrial fibrillation,Arrhythmia,24,11,No
+110312. Focal atrial tachycardia: ectopic (automatic),Arrhythmia,24,11,No
+110313. Macro-reentrant atrial tachycardia (including atrial flutter),Arrhythmia,24,11,No
+110315. Multifocal atrial tachycardia (chaotic),Arrhythmia,24,11,No
+110366. Cavotricuspid isthmus dependent reentry atrial tachycardia: atrial flutter,Arrhythmia,24,11,No
+110367. Non-cavotricuspid isthmus dependent atrial tachycardia,Arrhythmia,24,11,No
+110400. Rhythm disturbance at level of AV junction,Arrhythmia,24,11,No
+110407. AV junctional (nodal) tachycardia,Arrhythmia,24,11,No
+110411. AV nodal reentry tachycardia (AVNRT),Arrhythmia,24,11,No
+110442. Junctional ectopic tachycardia (His bundle),Arrhythmia,24,11,No
+110500. Ventricular rhythm disturbance,Arrhythmia,24,11,No
+110506. Ventricular tachycardia,Arrhythmia,24,11,No
+110509. Ventricular flutter,Arrhythmia,24,11,No
+110510. Ventricular fibrillation,Arrhythmia,24,11,No
+"110517. Catecholaminergic polymorphic ventricular tachycardia,",Arrhythmia,24,11,No
+110521. Premature ventricular beats (complexes-contractions),Arrhythmia,24,11,No
+"110544. Brugada syndrome (ventricular tachycardia with anterior raised ST),",Arrhythmia,24,11,No
+110550. Non-sustained ventricular tachycardia,Arrhythmia,24,11,No
+110556. Focal ventricular tachycardia,Arrhythmia,24,11,No
+110557. Macro-reentrant ventricular tachycardia,Arrhythmia,24,11,No
+110584. Idiopathic fascicular ventricular tachycardia,Arrhythmia,24,11,No
+110600. Conduction disturbance,Arrhythmia,24,11,No
+110601. Sinoatrial block,Arrhythmia,24,11,No
+110602. 1st degree AV block,Arrhythmia,24,11,No
+110603. 2nd degree AV block,Arrhythmia,24,11,No
+110607. Complete AV block (3rd degree),Arrhythmia,24,11,No
+110610. Acquired complete AV block,Arrhythmia,24,11,No
+110616. Congenital complete heart block,Arrhythmia,24,11,No
+110623. Complete R bundle branch block,Arrhythmia,24,11,No
+110624. Complete L bundle branch block,Arrhythmia,24,11,No
+110635. Preprocedural complete AV block,Arrhythmia,24,11,No
+110701. AV reciprocating (reentry) tachycardia: manifest preexcitation in sinus rhythm (Wolff Parkinson White),Arrhythmia,24,11,No
+110706. Accessory pathway: retrograde conduction only (concealed: no preexcitation sinus rhythm),Arrhythmia,24,11,No
+110711. Manifest accessory pathway,Arrhythmia,24,11,No
+110714. Permanent junctional reciprocating tachycardia (PJRT),Arrhythmia,24,11,No
+110722. AV reciprocating (reentry) tachycardia: orthodromic,Arrhythmia,24,11,No
+110723. AV reentry (reciprocating) tachycardia: antidromic (typically wide QRS),Arrhythmia,24,11,No
+110726. Multiple accessory pathways,Arrhythmia,24,11,No
+110728. AV reentry (reciprocating) tachycardia: orthodromic & antidromic,Arrhythmia,24,11,No
+110729. AV reciprocating (reentry) tachycardia (accessory pathway mediated),Arrhythmia,24,11,No
+111200. Ion channelopathy,Arrhythmia,24,11,No
+111201. Prolonged QT interval,Arrhythmia,24,11,No
+111229. Long QT syndrome,Arrhythmia,24,11,No
+112300. Morphological abnormality of conduction system,Arrhythmia,24,11,No
