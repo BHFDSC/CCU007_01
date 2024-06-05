@@ -1,11 +1,13 @@
 # What are the differences in types of congenital heart disease procedures in children during periods of lockdown and relaxation of lockdown, compared to before the COVID-19 pandemic?
 
+**Arun Karthikeyan Suseeladevi, Rachel Denholm, Sonya Babu-Narayan, Shubhra Sinha, Serban Stoica, Tim Dong, Gianni Angelini, Cathie Sudlow, Venexia Walker, Katherine Brown, Massimo Caputo, Deborah A Lawlor, on behalf of the CVD-COVID-UK/COVID-IMPACT Consortium**
+
 ## Project description
 
 The COVID-19 pandemic necessitated major re-allocation of health care services. Our aim was to assess the impact on pediatric procedures for congenital heart disease during different periods of the COVID-19 pandemic compared to the pre-pandemic period to inform appropriate responses to future major disruptions of health services.
 
 ## How to cite this work
-> Citation to follow
+Preprint available here: https://doi.org/10.1101/2024.05.20.24307597
 
 ## Code
 
